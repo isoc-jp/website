@@ -5,26 +5,21 @@ title: Internet Society Japan Chapter
 featuredImage: /images/uploads/header-isoc.png
 subtitle: ISOC Japan Chapterへようこそ
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: This is the Internet Society Japan Chapter (ISOC-JP)'s Web Page.
+  title: ISOC Japan Chapter
 ---
+ここは，インターネットソサエティ日本支部（ISOC-JP）のWeb Pageです．/ This is the Internet Society Japan Chapter (ISOC-JP)'s Web Page.
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# 会員募集中！ / Join us !
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+* ISOC-JPへの参加方法 / How to join ISOC-JP
 
-# Features
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
 
-## Get started
+#  お知らせ /News
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+* 2021年8月5日 (木) に開催される 第61回ICANN報告会 を後援しています。/ ISOC-JP supports 61st ICANN Readout Session will be held on 5th August 2021.
+* ISOC-JP Newsletter Vol.16 を発行しました (ISOC-JP ニュースレター) / ISOC-JP issued Newsletter Vol.16. (ISOC-JP Newsletter )．
+* インターネットソサエティ(ISOC)の各支部は、毎年、本部より活動状況に関する評価を受けます。ISOC-JPは、2020年の活動状況について「Gigabit Chapter」(最上位の評価)を得ました。ISOC-JPの活動への皆様のご協力に深く感謝します。/ Internet Society evaluates its Chapters every year. For our last year(2020) activities, we got 'Gigabit Chapter' evaluation, which is the highest lank. We would appreciate your continued cooperation to ISOC-JP. 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
