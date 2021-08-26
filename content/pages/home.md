@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Internet Society Japan Chapter
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/a1c9e9a2-950f-47ff-b4ef-9445a9b1c9cf/
 subtitle: ISOC Japan Chapterへようこそ
 meta:
   description: This is a meta description.
