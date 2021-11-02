@@ -105,6 +105,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: 'content/pages/AboutUS.md'
         label: 'About US'
         name: 'About-US'
+        fields:
       
       - file: 'content/pages/blog.md'
         label: 'Blog Page'
