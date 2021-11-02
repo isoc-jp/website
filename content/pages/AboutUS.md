@@ -1,3 +1,8 @@
+---
+title: About US
+featuredImage: /images/uploads/header-isoc.png
+subtitle: About US
+---
 # ISOC-JP のご紹介  Introduction to ISOC-JP
 
 ## ISOC-JP とは About ISOC-JP
