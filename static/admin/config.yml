@@ -153,28 +153,18 @@ collections: # A list of collections the CMS should be able to edit
               widget: hidden,
               default: AboutUSPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'AboutUS' }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Images, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
-          - { label: Section 1, name: section1, widget: markdown }
-          - { label: Section 2, name: section2, widget: markdown }
-          - { name: video, label: video, widget: file }
-          - { name: videoPoster, label: videoPoster, widget: image }
-          - { label: videoTitle, name: videoTitle, widget: string }
-          - label: 'accordion'
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+          - label: 'Accordion'
             name: 'accordion'
             widget: 'list'
+            required: false
             fields:
-              - { name: title, label: title, widget: string, default: '' }
-              - { name: description, label: description, widget: string }
-          - label: 'Gallery'
-            name: 'gallery'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: Content, name: content, widget: text }
           - label: 'Meta'
             required: false
             name: 'meta'
@@ -199,6 +189,7 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
+
 
 
 
