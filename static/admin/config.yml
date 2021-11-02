@@ -102,6 +102,10 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
+      - file: 'content/pages/AboutUS.md'
+        label: 'About US'
+        name: 'About-US'
+      
       - file: 'content/pages/blog.md'
         label: 'Blog Page'
         name: 'blog-page'
