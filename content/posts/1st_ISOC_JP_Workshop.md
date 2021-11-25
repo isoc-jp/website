@@ -1,3 +1,11 @@
+---
+template: SinglePost
+title: 第一回 ISOC-JP 勉強会 / 1st ISOC-JP Workshop
+status: Published
+date: '2018-03-27'
+categories:
+  - category: News
+---
 # 第一回 ISOC-JP 勉強会 / 1st ISOC-JP Workshop
 ## 開催報告
 第一回勉強会を2014年7月29日に開催しました．17名（関係者含む）の皆様に参加頂きました．
