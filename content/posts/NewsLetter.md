@@ -1,0 +1,20 @@
+# ISOC Japan Chapter Newsletter
+
+### Vol. 16 (2020.11発行/ Issued date: November 2020) {{ref ISOC-JP-Newsletter-vol-16.pdf}} (Japanese Only)
+### Vol. 15 (2019.12発行/ Issued date: December 2019) {{ref ISOC-JP-Newsletter-vol-15.pdf}} (Japanese Only)
+### Vol. 14 (2019.8発行/ Issued date: August 2019) {{ref ISOC-JP-Newsletter-vol-14.pdf}} (Japanese Only)
+### Vol. 13 (2019.5発行/ Issued date: May 2019) {{ref ISOC-JP-Newsletter-vol-13.pdf}} (Japanese Only)
+### Vol. 12 (2018.12発行/ Issued date: December 2018) {{ref ISOC-JP-Newsletter-vol-12.pdf}} (Japanese Only)
+### Vol. 11 (2018.8発行/ Issued date: August 2018) {{ref ISOC-JP-Newsletter-vol-11.pdf}} (Japanese Only)
+### Vol. 10 (2017.9発行/ Issued date: September 2017) {{ref ISOC-JP-Newsletter-vol-10.pdf}} (Japanese Only)
+### Vol. 9 (2017.5発行/ Issued date: May 2017) {{ref ISOC-JP-NewsLetter-vol-9.pdf}} (Japanese Only)
+### Vol. 8 (2016.12発行/ Issued date: December 2016) {{ref ISOC-JP-NewsLetter-vol-8.pdf}} (Japanese Only)
+### Vol. 7 (2016.9発行/ Issued date: September 2016) {{ref ISOC-JP-NewsLetter-vol-7.pdf}} (Japanese Only)
+### Vol. 6 (2016.7発行/ Issued date: July 2016) {{ref ISOC-JP-NewsLetter-vol-6.pdf}} (Japanese Only)
+### Vol. 5 (2015.10発行/ Issued date: October 2015) {{ref ISOC-JP-NewsLetter-vol-5.pdf}} (Japanese Only)
+### Vol. 4 (2015.8発行/ Issued date: August 2015) {{ref ISOC-JP-NewsLetter-vol-4.pdf}} (Japanese Only)
+### Vol. 3 (2015.6発行/ Issued date: June 2015) {{ref ISOC-JP-NewsLetter-vol-3.pdf}} (Japanese Only)
+### Vol. 2 (2015.4発行/ Issued date: April 2015) {{ref ISOC-JP-NewsLetter-vol-2.pdf}} (Japanese Only)
+### Vol. 1 (2015.2.26発行/ Issued date: 26 Feb 2015) {{ref ISOC-JP-NewsLetter-vol-1.pdf}} (Japanese/English)
+### Vol. 0 (2014.12.19発行/Issued date: 19 Dec 2014) {{ref ISOC-JP-NewsLetter-vol-0.pdf}} (Japanese Only)
+
