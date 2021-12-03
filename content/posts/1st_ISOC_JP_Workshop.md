@@ -4,7 +4,7 @@ title: 第一回 ISOC-JP 勉強会 / 1st ISOC-JP Workshop
 status: Published
 date: '2018-03-27'
 categories:
-  - category: News
+  - category: Activities
 ---
 # 第一回 ISOC-JP 勉強会 / 1st ISOC-JP Workshop
 ## 開催報告
