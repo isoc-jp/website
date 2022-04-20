@@ -5,14 +5,15 @@ slug: activities/ietf_updates/85
 status: Published
 date: '2012-12-21'
 categories:
+  - category: 各種活動
   - category: IETF報告会
 ---
 # IETF85報告会 / IETF85 Update Meeting
 ## 会合情報
 *  日時: 2012年12月21日 (金）14:00〜18:00
-       *  終了後，簡単な懇親会を開催予定です（参加費，実費）．
+  *  終了後，簡単な懇親会を開催予定です（参加費，実費）．
 *  場所: IIJ本社 17F 大会議室
-       *  http://www.iij.ad.jp/info/map/head-office.html
+  *  http://www.iij.ad.jp/info/map/head-office.html
 ## プログラム： （時刻は予定です．話者の皆様の敬称は略させて頂きます．）
 , 時刻, 議題, 関連WG等,話者, 資料(Wiki), 資料(web)
 ,14:00-14:15,オープニング/IETF とは,,江崎 浩(ISOC-JP Chair),,
