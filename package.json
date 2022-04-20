@@ -43,11 +43,15 @@
     "react-feather": "^2.0.3",
     "react-helmet": "^5.2.1",
     "react-markdown": "^4.2.2",
-    "react-photoswipe": "^1.3.0"
+    "react-photoswipe": "^1.3.0",
+    "sharp": "^0.30.4"
   },
   "keywords": [
     "gatsby"
   ],
+  "resolutions": {
+    "sharp": "^0.29.1"
+  },
   "license": "MIT",
   "main": "n/a",
   "scripts": {
