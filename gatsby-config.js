@@ -31,8 +31,6 @@ module.exports = {
     //   }
     // },
 
-    'gatsby-schema-field-absolute-path',
-
     // Add static assets before markdown files
     {
       resolve: 'gatsby-source-filesystem',
