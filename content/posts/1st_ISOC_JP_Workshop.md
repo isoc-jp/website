@@ -15,7 +15,7 @@ categories:
 *  [キャッシュポイズニング (dnsops.jp)](http://dnsops.jp/event/20140627/201406-attacktool.pdf)
 *  [キャッシュポイズニング (JANOG)](http://www.janog.gr.jp/meeting/janog34/doc/janog34-dnsvl-morishita-1.pdf)
 ## 開催案内
-::日時
+* 日時
 :::2014年7月29日（火） 18:30〜20:30
 ::会場
 :::[JPNIC会議室](https://www.nic.ad.jp/ja/profile/map.html)
