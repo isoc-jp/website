@@ -74,7 +74,6 @@ export class Navigation extends Component {
             <NavLink to="/">Home</NavLink>
             <NavLink to="/aboutus/">AboutUs</NavLink>
             <NavLink to="/committees/">Committees</NavLink>
-            <NavLink to="/components/">Components</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -94,7 +93,7 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Blog
+                Activities
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
                     All Posts
