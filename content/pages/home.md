@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ""
-title: Internet Society Japan Chapter
-featuredImage: /images/uploads/header-isoc.png
+title: ISOC Japan Chapter
+featuredImage: images/uploads/header-isoc.png
 subtitle: ISOC Japan Chapterへようこそ
 meta:
   description: This is the Internet Society Japan Chapter (ISOC-JP)'s Web Page.
