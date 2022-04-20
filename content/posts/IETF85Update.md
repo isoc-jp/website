@@ -1,3 +1,12 @@
+---
+template: SinglePost
+title: IETF85報告会 / IETF85 Update Meeting
+slug: activities/ietf_updates/85
+status: Published
+date: '2012-12-21'
+categories:
+  - category: IETF報告会
+---
 # IETF85報告会 / IETF85 Update Meeting
 ## 会合情報
 *  日時: 2012年12月21日 (金）14:00〜18:00

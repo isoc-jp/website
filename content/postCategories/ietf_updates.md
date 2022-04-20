@@ -1,9 +1,9 @@
 ---
-template: DefaultPage
+template: BlogIndex
 slug: activities/ietf_updates
 title: IETF報告会
 subtitle: IETF Update Meeting
-featuredImage: /images/uploads/header-isoc.png
+featuredImage: ../../images/uploads/header-isoc.png
 ---
 
 # IETF報告会について / About IETF Update Meeting
