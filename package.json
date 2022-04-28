@@ -37,7 +37,7 @@
     "netlify-cms-app": "^2.9.7",
     "netlify-cms-media-library-uploadcare": "^0.5.5",
     "postcss-preset-env": "^6.7.0",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-feather": "^2.0.3",
@@ -64,6 +64,6 @@
   },
   "devDependencies": {
     "prettier": "^1.18.2",
-    "sass": "^1.32.8"
+    "sass": "^1.51.0"
   }
 }
