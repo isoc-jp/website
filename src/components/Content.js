@@ -84,8 +84,8 @@ const Content = ({ source, src, className = '' }) => {
   return (
     <Marked
       className={`Content ${className}`}
-      source={encodeMarkdownURIs(source)}
-      renderers={{
+      children={encodeMarkdownURIs(source)}
+      components={{
         image: MyImage,
         html: HtmlBlock
       }}
