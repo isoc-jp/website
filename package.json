@@ -1,11 +1,11 @@
 {
-  "name": "yellowcake",
-  "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
+  "name": "isoc-jp-website",
+  "HomePage": "https://www.isoc.jp/",
+  "description": "Website of ISOC Japan Chapter",
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://github.com/isoc-jp/website"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
