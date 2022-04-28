@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: IETF109報告会 / IETF109 ate Meeting
+title: IETF109報告会 / IETF109 Update Meeting
 slug: activities/ietf_updates/109
 status: Published
 date: '2020-12-23'
