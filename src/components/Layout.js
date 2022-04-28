@@ -17,9 +17,6 @@ const Layout = ({ children, meta, title }) => {
             siteTitle
             siteDescription
             googleTrackingId
-            socialMediaCard {
-              image
-            }
           }
           allPosts: allMarkdownRemark(
             filter: { fields: { contentType: { eq: "postCategories" } } }

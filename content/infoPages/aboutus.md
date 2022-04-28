@@ -3,7 +3,7 @@ template: DefaultPage
 slug: aboutus
 title: ISOC-JP のご紹介
 subtitle: Introduction to ISOC-JP
-featuredImage: /images/uploads/header-isoc.png
+featuredImage: ../images/uploads/header-isoc.png
 ---
 
 # ISOC-JP とは About ISOC-JP
