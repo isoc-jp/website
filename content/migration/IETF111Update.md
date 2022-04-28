@@ -1,28 +1,39 @@
+---
+template: SinglePost
+title: IETF111報告会 / IETF111 Update Meeting
+slug: activities/ietf_updates/111
+status: Published
+date: '2021-09-03'
+categories:
+  - category: 各種活動
+  - category: IETF報告会
+---
+
 # IETF111報告会
 
 2021年7月26日(月)-30日(金)までオンラインで開催されました、第111回IETFミーティング(Internet Engineering Task Force meeting)における旬の話題や議論の動向など、ミーティングの様子を広く知っていただくため、Internet Society 日本支部と一般社団法人日本ネットワークインフォメーションセンターの共催で報告会を開催いたします。
 
 ## 会合情報
-:日時: 2021年9月3日(金) 17:00-19:30
+* 日時: 2021年9月3日(金) 17:00-19:30
 
-:会場: オンライン
-*  発表および質疑応答は、リモートカンファレンスツール([Zoom](https://zoom.us))で行います。
-       *  以下の参加申込URLよりご登録ください。ご登録後、Zoom参加に関するメールが届きます。
-       *  基本的に質問はZoomのチャット(テキスト)で受け付ける方式です。
+* 会場: オンライン
+    *  発表および質疑応答は、リモートカンファレンスツール([Zoom](https://zoom.us))で行います。
+        *  以下の参加申込URLよりご登録ください。ご登録後、Zoom参加に関するメールが届きます。
+        *  基本的に質問はZoomのチャット(テキスト)で受け付ける方式です。
 *  参加者間のチャットには ietf-jp slackの #ietf111-online チャネルをご利用ください。ietf-jp slackにアカウントをお持ちでない方は contact@ml.isoc.jp にご連絡ください。
-       *  議論の場所を分かりやすくするため、話者への質問などは #ietf111-online チャネルに書き込んでいただけば幸いです。
+    *  議論の場所を分かりやすくするため、話者への質問などは #ietf111-online チャネルに書き込んでいただけば幸いです。
 
-:主催:
+## 主催
 *  Internet Society日本支部 (ISOC-JP)
 *  一般社団法人日本ネットワークインフォメーションセンター (JPNIC) 
 
-:後援: WIDEプロジェクト(WIDE)
+## 後援 WIDEプロジェクト(WIDE)
 
-:参加費: 無料
+* 参加費: 無料
 
 ## 参加申込
 *  [Zoom Webinar <https://us06web.zoom.us/webinar/register/6616298727811/WN_Zzloq0VpRpCKiuCGXdaIXw>](https://us06web.zoom.us/webinar/register/6616298727811/WN_Zzloq0VpRpCKiuCGXdaIXw)上で参加登録を受け付けます。2021年9月2日までにお申し込みください。
-       *  ご登録後、ウェビナー参加に関する確認メールが届きます。
+    *  ご登録後、ウェビナー参加に関する確認メールが届きます。
 
 ## 配信URL
 
@@ -38,33 +49,25 @@
 
 (敬称略/時間と内容は変わる可能性があります)
 
-     17:00開始
-     
-     オープニング
-     
-     IETF111全体概要
-     木村泰司 (JPNIC)
-     
-     WebとQUIC等のWebトランスポート関連
-     
-     IPv6関連
-     豊田安信 (慶應義塾大学 / ブロードバンドタワー)
-     
-     RPKI関連
-     木村泰司 (JPNIC)
-     
-     ディスカッション
-     テーマ：IETF以外の標準化活動も視野に入れた動向‐3GPP/モバイル‐(仮)
-     宮坂拓也 (KDDI総合研究所)
-     木村泰司 (JPNIC)
-     
-     クロージング
-     
-     19:30終了予定
+* 17:00開始 
+オープニング   
+* IETF111全体概要  
+木村泰司 (JPNIC)
+* WebとQUIC等のWebトランスポート関連
+* IPv6関連  
+豊田安信 (慶應義塾大学 / ブロードバンドタワー)
+* RPKI関連 
+木村泰司 (JPNIC)
+* ディスカッション
+    * テーマ：IETF以外の標準化活動も視野に入れた動向‐3GPP/モバイル‐(仮)
+        * 宮坂拓也 (KDDI総合研究所)
+        * 木村泰司 (JPNIC)
+* クロージング  
+19:30終了予定
 
 ## ハッシュタグ
 
-#isocjp
+`#isocjp` 
 
 ## お問い合わせ先
 ietf-mtg@isoc.jp
