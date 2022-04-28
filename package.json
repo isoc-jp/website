@@ -14,7 +14,7 @@
     "gatsby-plugin-google-tagmanager": "^4.13.0",
     "gatsby-plugin-nprogress": "^2.1.12",
     "gatsby-plugin-postcss": "^2.1.13",
-    "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-react-helmet": "^5.13.0",
     "gatsby-plugin-sass": "^2.1.20",
     "gatsby-plugin-sharp": "^2.2.36",
     "gatsby-plugin-sitemap": "^2.2.19",
