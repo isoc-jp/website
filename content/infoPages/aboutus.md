@@ -20,10 +20,10 @@ ISOC-JP is Japan Chapter of Internet Society (ISOC).  Following ISOC's mission, 
 # 役員/Officers
 
 * Chair: 橘 俊男 Toshio Tachibana *
-* Vice Chair: 根本 貴弘 Takahiro NEMOTO
+* Vice Chair: 根本 貴弘 Takahiro Nemoto
 * Program Chair: 木村 泰司 Taiji Kimura *
 * Secretary: 梶原 龍 Ryo Kajiwara
-* Treasurer: 中島 博敬 Hirotaka NAKAJIMA 
+* Treasurer: 中島 博敬 Hirotaka Nakajima 
 
 2022年4月に開催された総会にて，2名改選されました(*)．役職は互選で決定致しました． 
 Two new officers were elected in the General Meeting held April 2022. The positions have been determined by mutual vote.
