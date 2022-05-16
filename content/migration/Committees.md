@@ -1,5 +1,5 @@
 # Committees in ISOC-JP
-ISOC-JP では，定款に基づき，以下の委員会を設立し，活動しています/ISOC-JP has following comittees on the basis of the provisions of the ByLaws.
+ISOC-JP では、定款に基づき、以下の委員会を設立し、活動しています/ISOC-JP has following comittees on the basis of the provisions of the ByLaws.
 ##常設委員会/Standing Committees
 *  プログラム委員会
 ##臨時委員会/Temporary Committees
@@ -9,5 +9,5 @@ ISOC-JP では，定款に基づき，以下の委員会を設立し，活動し
 ## ワーキンググループ/Working Groups
 *  [[IETF Education Working Group](IETFEduWG)]
 *  [[ISOC-JP IETF Publicity Working Group](IETFpubWG)]
-## 終了した委員会，WG / Closed committees and WGs.
+## 終了した委員会、WG / Closed committees and WGs.
 * （2016.12.7 終了） [[Online Identity Working Group](OnlineIdentityWG)]

@@ -1,7 +1,7 @@
 # IETF報告会 / IETF Update Meeting
 ## IETF報告会について / About IETF Update Meeting
 ### 開催主旨
-ISOC-JPでは，年に3回開催されるIETF meeting の開催後に国内にて「IETF報告会」を開催しております．IETF meeting の参加者から報告者を募り，IETF meeting で交わされた議論内容を報告していただき，国内のコミュニティに展開するイベントとなっております．また，このイベントを通じ，参加者の相互交流をはかれれば，と考えております．皆様，是非ご参加下さい．
+ISOC-JPでは、年に3回開催されるIETF meeting の開催後に国内にて「IETF報告会」を開催しております。IETF meeting の参加者から報告者を募り、IETF meeting で交わされた議論内容を報告していただき、国内のコミュニティに展開するイベントとなっております。また、このイベントを通じ、参加者の相互交流をはかれれば、と考えております。皆様、是非ご参加下さい。
 
 We, ISOC Japan Chapter will hold IETF update meeting in Japan after  IETF meetings which are being held 3 times a year. In this meeting,  we'll ask some of attendees of the IETF meeting to report about topics related to WGs and other activities of IETF.
 
@@ -35,7 +35,7 @@ We, ISOC Japan Chapter will hold IETF update meeting in Japan after  IETF meetin
 # IETF勉強会 / IETF study meeting 
 ## IETF勉強会について / About IETF study meeting 
 ### 開催主旨
-ISOC-JPでは，6年ぶりに日本国内で開催された IETF94 meeting YOKOHAMA に向けて，国内からのIETFへの関与を増やすことを目的として，IETFの全体像や標準化文書の書き方，オンサイト(現地)・リモートでの参加方法などを解説するIETF勉強会を2回開催いたしました．
+ISOC-JPでは、6年ぶりに日本国内で開催された IETF94 meeting YOKOHAMA に向けて、国内からのIETFへの関与を増やすことを目的として、IETFの全体像や標準化文書の書き方、オンサイト(現地)・リモートでの参加方法などを解説するIETF勉強会を2回開催いたしました。
 
 We, ISOC Japan Chapter held the IETF study meetings twice in 2015 which are intended to enhance Japanese commitment to IETF.
 

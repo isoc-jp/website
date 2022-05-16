@@ -2,7 +2,7 @@
 ##Committee名
 ICANN At Large Structure Committee (ALS Japan Committee)
 ##Charter
-ISOC-JP における ICANN の ALS Japan としての活動をリードする．
+ISOC-JP における ICANN の ALS Japan としての活動をリードする。
 ## 設立日/Date of establishment
 *  2013年12月10日
 ##体制

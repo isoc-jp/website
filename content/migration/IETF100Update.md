@@ -69,6 +69,6 @@ https://isocjp.doorkeeper.jp/events/67738
 ,,16:45,0:15,IPv6 over LPWAN の状況,Shoichi Sakane,CISCO,{{ref s4-sakane.pdf}}
 ,休憩,17:00,0:15,,,,
 ,5. emerging area 2 (HTTP/2、QUIC、認証など),17:15,0:15,HTTP/QUIC関連報告,後藤浩行,グリー株式会社,{{ref s5-goto.pdf}}
-,(司会：小林茉莉子),17:30,0:10,IETF100報告(OAuth，ACME),安次富大介,Toshiba,{{ref s5-ajitomi.pdf}}
+,(司会：小林茉莉子),17:30,0:10,IETF100報告(OAuth、ACME),安次富大介,Toshiba,{{ref s5-ajitomi.pdf}}
 ,,17:40,0:10,Open Mic,,,
 ,Closing,17:50,0:05,,藤崎智宏,ISOC-JP,

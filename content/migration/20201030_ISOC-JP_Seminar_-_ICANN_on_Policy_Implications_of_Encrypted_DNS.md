@@ -13,7 +13,7 @@
        *  https://go.icann.org/jp-wiki
 
 ## 当日資料/Presentation Material
-*  Internet Society，Internet Society日本支部紹介 : {{ref 20201030_ISOC-JP.pdf}}
+*  Internet Society、Internet Society日本支部紹介 : {{ref 20201030_ISOC-JP.pdf}}
 *  Local and Internet Policy　Implications of Encrypted DNS : {{ref 20201030_ICANN(1)_Encrypted DNS.pdf}}
 *  DNS暗号化がローカル/ インターネットポリシーに与える影響 : {{ref 20201030_ICANN(1)_Encrypted DNS-ja.pdf}}
 *  Identifier Technology Health Indicators : {{ref 20201030_ICANN(2)_ITHI.pdf}}

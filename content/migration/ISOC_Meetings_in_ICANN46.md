@@ -1,5 +1,5 @@
 # ISOC Meetings in ICANN46
-## 北京で開催された [ICANN46](ttp://beijing46.icann.org/)では，以下のISOC関連ミーティングが開催されました．
+## 北京で開催された [ICANN46](ttp://beijing46.icann.org/)では、以下のISOC関連ミーティングが開催されました。
 *  ISOC's Participation in ICANN (Sunday, April 7th)
 *  ISOC Chapter and Member Meeting (Tuesday, April 9th)
 ##ISOC's Participation in ICANN
@@ -25,7 +25,7 @@
     ISOC の挨拶
     - Lynn の挨拶
     - Markus の挨拶
-      WCIT の結果，今後．ISOC
+      WCIT の結果、今後。ISOC
     - Walda の挨拶
     - Ted の挨拶
     - Joyce の挨拶 (2ヶ月) director of chapters

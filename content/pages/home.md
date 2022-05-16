@@ -8,7 +8,7 @@ meta:
   description: This is the Internet Society Japan Chapter (ISOC-JP)'s Web Page.
   title: ISOC Japan Chapter
 ---
-ここは，インターネットソサエティ日本支部（ISOC-JP）のWeb Pageです．/ This is the Internet Society Japan Chapter (ISOC-JP)'s Web Page.
+ここは、インターネットソサエティ日本支部（ISOC-JP）のWeb Pageです。/ This is the Internet Society Japan Chapter (ISOC-JP)'s Web Page.
 
 # 会員募集中！ / Join us !
 
@@ -17,5 +17,5 @@ meta:
 # お知らせ /News
 
 * 2021年8月5日 (木) に開催される 第61回ICANN報告会 を後援しています。/ ISOC-JP supports 61st ICANN Readout Session will be held on 5th August 2021.
-* ISOC-JP Newsletter Vol.16 を発行しました (ISOC-JP ニュースレター) / ISOC-JP issued Newsletter Vol.16. (ISOC-JP Newsletter )．
+* ISOC-JP Newsletter Vol.16 を発行しました (ISOC-JP ニュースレター) / ISOC-JP issued Newsletter Vol.16. (ISOC-JP Newsletter )。
 * インターネットソサエティ(ISOC)の各支部は、毎年、本部より活動状況に関する評価を受けます。ISOC-JPは、2020年の活動状況について「Gigabit Chapter」(最上位の評価)を得ました。ISOC-JPの活動への皆様のご協力に深く感謝します。/ Internet Society evaluates its Chapters every year. For our last year(2020) activities, we got 'Gigabit Chapter' evaluation, which is the highest lank. We would appreciate your continued cooperation to ISOC-JP.
