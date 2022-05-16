@@ -1,8 +1,8 @@
 #IETF Education Working Group
 ##設立趣旨
-IETF (Internet Engineering Task Force) は，インターネット技術の標準化団体であり，従来よりISOCが支援しています．
+IETF (Internet Engineering Task Force) は、インターネット技術の標準化団体であり、従来よりISOCが支援しています。
 
-IETFのミーティングは年3回開催されますが，会合の初日に，新規参加者対象のチュートリアルセッションが実施されています．本WGでは，IETF会合のチュートリアル資料について，最新版を日本語化し，国内コミュニティに提供することを目的とします．
+IETFのミーティングは年3回開催されますが、会合の初日に、新規参加者対象のチュートリアルセッションが実施されています。本WGでは、IETF会合のチュートリアル資料について、最新版を日本語化し、国内コミュニティに提供することを目的とします。
 
 ##構成
 *  主査/Chair
@@ -27,6 +27,6 @@ IETFのミーティングは年3回開催されますが，会合の初日に，
        *  [IETF104](https://www.ietf.org/slides/slides-edu-ietf-104-newcomer-slides-japanese-00.pdf) (2019/03/22掲載)
        *  {{ref slides-edu-ietf-105-newcomer-slides-jp.pdf,,IETF105}} (2019/07/20掲載)
        *  {{ref slides-106-edu-sesse-ietf-106-newcomers-overview-00-jp.pdf,,IETF106}} (2019/11/16掲載)
-       *  各回の他の言語の資料は[こちら](https://trac.tools.ietf.org/group/edu/wiki/Tutorial_by_IETF)をご参照ください．
+       *  各回の他の言語の資料は[こちら](https://trac.tools.ietf.org/group/edu/wiki/Tutorial_by_IETF)をご参照ください。
 ## 参考
 *  [IETF Edu Team Wiki](https://trac.tools.ietf.org/group/edu/)

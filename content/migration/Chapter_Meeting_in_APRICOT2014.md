@@ -16,7 +16,7 @@
 *  討論
        *  報告者が17:30からのセッションに参加のため、参加できませんでした。
 ## 報告資料等
-ISOCのwebページより取得可能です．
+ISOCのwebページより取得可能です。
 *  http://www.internetsociety.org/events/internet-society-apricot-chapter-and-member-meeting
 ## 所感等
 地元チャプターの活動の中心を担うメンバーの動きは非常にアクティブであると感じた。これらのメンバーはISOCだけではなく他のコミュニティの活動も行っているらしく、既存コミュニティ間の連携の為にもISOCのLocal Chapterは重要な役割を担っているようである。（記：橘）

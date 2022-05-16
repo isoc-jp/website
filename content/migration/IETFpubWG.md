@@ -1,7 +1,7 @@
 #ISOC-JP IETF Publicity Working Group
 
 ##設立趣旨
-IETF (Internet Engineering Task Force)は，インターネット技術の標準化団体であり，
+IETF (Internet Engineering Task Force)は、インターネット技術の標準化団体であり、
 従来よりISOCが支援しております。
 
 本WGは, IETFにおける標準化技術動向について国内コミュニティに広報すること
