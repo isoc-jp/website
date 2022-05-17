@@ -48,7 +48,7 @@ export const BlogIndexTemplate = ({
     {({ location }) => {
       let filteredPosts =
         posts && !!posts.length
-          ? byCategory(byDate(posts), title, contentType)
+          ? byCategory(posts, title, contentType)
           : []
 
       let queryObj = location.search.replace('?', '')
