@@ -8,7 +8,7 @@ featuredImage: ../images/uploads/header-isoc.png
 
 # ISOC-JP とは About ISOC-JP
 
-ISOC-JP は、[ISOC](http://www.isoc.org) の日本支部です。ISOC の理念に従い、日本国内におけるインターネットの普及啓蒙、日本の状況の海外発信といったアクティビティを中心に、ボランティアベースで活動を実施しています。
+ISOC-JP は、[ISOC](http://www.isoc.org) の日本支部です。ISOC の理念に従い、日本国内におけるインターネットの普及啓発、日本の状況の海外発信といったアクティビティを中心に、ボランティアベースで活動を実施しています。
 
 ISOC-JP is Japan's Chapter of the Internet Society (ISOC).  Following ISOC's mission, we run activities that raise popularity and awareness of the Internet and report the current status of Japan to overseas.  All of our activities are volunteer-based.
 
