@@ -1,5 +1,5 @@
 # ISOC Meetings in ICANN50
-## ロンドンで開催された [ICANN50](http://london50.icann.org/)では，以下のISOC関連ミーティングが開催されました．
+## ロンドンで開催された [ICANN50](http://london50.icann.org/)では、以下のISOC関連ミーティングが開催されました。
 *  Internet Society Chapter Workshop (Friday, 20th June 2014)
 ## [Chapter Workshop: Building Trusted Relationships with Policy Makers and Government](http://www.internetsociety.org/chapter-workshop-building-trusted-relationships-policy-makers-and-government)
 ### Meeting Information
@@ -13,13 +13,13 @@
 ### Meeting Information
 *  開催日時： 2014年6月23日（月） 19:00-21:00
 *  開催場所： Sovereign Room in the Hilton Metropole (ICANN50 meeting venue)
-*  参加者(日本支部より橘，樋口，北村，藤崎が参加)： on site で120〜130名程度
-       *  ISOC 支部多数，レジストリ，企業等
+*  参加者(日本支部より橘、樋口、北村、藤崎が参加)： on site で120〜130名程度
+       *  ISOC 支部多数、レジストリ、企業等
        *  Remote: 70人以上
 ###議題
     * ISOC Members@ICANN50
-    1．Welcome and Introduction
-    2．Welcome & Opening
+    1。Welcome and Introduction
+    2。Welcome & Opening
     3. Local Chapter welcome
     4. IGF Update
     5. PIR Update
@@ -27,7 +27,7 @@
     7. Open Discussion: IANA oversignt transition
     8. Thank you and close of meeting
 ###所感等
-過去から，最高の人数が参加したISOC@ICANNミーティングだと思われる．IGF関連について，議論が白熱．各ISOC支部で，地域IGFを組織，議論しているところが多い．具体的な事例として，アルメニアにおける政府との関係についての紹介も実施された．（記：藤崎）
+過去から、最高の人数が参加したISOC@ICANNミーティングだと思われる。IGF関連について、議論が白熱。各ISOC支部で、地域IGFを組織、議論しているところが多い。具体的な事例として、アルメニアにおける政府との関係についての紹介も実施された。（記：藤崎）
 
 アルメニアにおける政府機関との連携の事例紹介を通じて、Local Chapterが既存のコミュニティの存在してない国や地域における重要な役割を担おうと努力している事が伺えた。（記：橘）
 

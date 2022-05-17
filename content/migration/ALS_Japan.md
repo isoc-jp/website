@@ -1,6 +1,6 @@
 # Wiki Page for ALS Japan (At-Large Structure Japan)
 ## ALS Japan について
-ISOC Japan Chapter は，192番目のALSとして ICANN At-Large に認められています．/ISOC Japan Chapter was recognized as 192nd ALS (At-Large Structure).
+ISOC Japan Chapter は、192番目のALSとして ICANN At-Large に認められています。/ISOC Japan Chapter was recognized as 192nd ALS (At-Large Structure).
 ## News
 ### BoF セッション開催のお知らせ/Call for participation: ALS BoF
 Internet Week 2014において会場をお借りすることができましたので、次の通りBoFセッションを開催いたします。参加費は無料です。事前登録は不要ですので直接会場へお越し下さい。
@@ -26,7 +26,7 @@ We'll hold a BoF session, 'What is ALS?: Activity report of At Large Structure J
 
 ###  ATLAS II (At-Large Summit II)報告
 
-2014年6月21日〜26日まで，ICANN50 にて開催された ATLAS II (At-Large Summit II)に参加しました（北村 (報告者)，樋口，橘，藤崎）．
+2014年6月21日〜26日まで、ICANN50 にて開催された ATLAS II (At-Large Summit II)に参加しました（北村 (報告者)、樋口、橘、藤崎）。
 
 *  概要
 

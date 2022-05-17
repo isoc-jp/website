@@ -1,18 +1,18 @@
 #  InterCommunity2016について/About InterCommunity 2016
-Internet Society では，2016年9月21日（水）13:30JST より，全世界的なコラボレーションイベントである [InterCommunity 2016](https://icomm16.internetsociety.org/) を開催致します．インターネットへの接続性がある場所でしたら，どこからでも参加可能です．詳しくは，[Internet Society のイベントページ](https://icomm16.internetsociety.org/)をご参照下さい．/ World wide collaboration event, [InterCommunity 2016](https://icomm16.internetsociety.org/)  will be held on 21 September 2016 hosted by Internet Society. Everyone on the Internet can join this conference. Please refer [InterCommunity Page]( https://icomm16.internetsociety.org/) for more detail.
+Internet Society では、2016年9月21日（水）13:30JST より、全世界的なコラボレーションイベントである [InterCommunity 2016](https://icomm16.internetsociety.org/) を開催致します。インターネットへの接続性がある場所でしたら、どこからでも参加可能です。詳しくは、[Internet Society のイベントページ](https://icomm16.internetsociety.org/)をご参照下さい。/ World wide collaboration event, [InterCommunity 2016](https://icomm16.internetsociety.org/)  will be held on 21 September 2016 hosted by Internet Society. Everyone on the Internet can join this conference. Please refer [InterCommunity Page]( https://icomm16.internetsociety.org/) for more detail.
 
 //{{a_img https://icomm16.internetsociety.org/,ICOMM16_logo_Ground-Blue.png,target="_blank",border=1}} 
 {{a_img https://icomm16.internetsociety.org/,ICOMM16_logo_Ground-Blue-w-posters.png,target="_blank",border=1}}
 
 # 日本インタラクティブノードの設置について/Interactive node in Tokyo
-本イベントにおいて，ISOC日本支部では，双方向でディスカッションを実施する "[インタラクティブノード](https://icomm16.internetsociety.org/#nodes)"の一つを，東京に誘致しました．是非，東京インタラクティブノードにてご参加下さい．参加申込は，9月12日より開始予定です．/ ISOC Japan Chapter will establish an [interactive node](https://icomm16.internetsociety.org/#nodes) in Tokyo. Please join the conference there. Registration will open on 12 September 2016.
+本イベントにおいて、ISOC日本支部では、双方向でディスカッションを実施する "[インタラクティブノード](https://icomm16.internetsociety.org/#nodes)"の一つを、東京に誘致しました。是非、東京インタラクティブノードにてご参加下さい。参加申込は、9月12日より開始予定です。/ ISOC Japan Chapter will establish an [interactive node](https://icomm16.internetsociety.org/#nodes) in Tokyo. Please join the conference there. Registration will open on 12 September 2016.
 
 ## 東京インタラクティブノード / Tokyo Interactive Node
 *  会場： 一般社団法人日本ネットワークインフォメーションセンター会議室/ Meeting room in Japan Network Information Center (JPNIC).
 *  https://www.nic.ad.jp/ja/profile/map.html
-       *  JPNIC様のご厚意により，会場をお借りしております．/ JPNIC kindly provides their meeting room for us.
+       *  JPNIC様のご厚意により、会場をお借りしております。/ JPNIC kindly provides their meeting room for us.
 ## 参加申込 / Registration
-*  イベントは終了しました．ご参加ありがとうございました．/ Thank you for attending the event.
+*  イベントは終了しました。ご参加ありがとうございました。/ Thank you for attending the event.
 
 # スケジュール /Schedule
 ##開催日 / Date
@@ -36,4 +36,4 @@ Internet Society では，2016年9月21日（水）13:30JST より，全世界�
        *  米州地域向け (for North and South America)
        *  Regional Session 3 &#8211; 16:00&#8211;18:00 UTC
 ##連絡先 / Contact
-ご質問等は，mailto:contact@ml.isoc.jp までお願い致します．/ Please contact to mailto:conatct@ml.isoc.jp if you have any questions.
+ご質問等は、mailto:contact@ml.isoc.jp までお願い致します。/ Please contact to mailto:conatct@ml.isoc.jp if you have any questions.

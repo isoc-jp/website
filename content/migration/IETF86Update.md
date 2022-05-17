@@ -1,6 +1,6 @@
 # IETF報告会 (86thオーランド) / IETF86 Update Meeting
 ## 中継のお知らせ
-*  会合をストリーミング配信します. 以下のURLをご参照下さい．
+*  会合をストリーミング配信します. 以下のURLをご参照下さい。
 *  http://www.ustream.tv/channel/ietf-mtg
 ## 会合情報
 :日時: 2013年4月18日 (木）13:00〜18:30 予定(受付開始 12:30)
@@ -15,7 +15,7 @@
 *  東京メトロ丸ノ内線大手町駅A2出口 徒歩9分
 :参加費: 無料
 :申込方法:本イベントは終了しました。多数のご参加ありがとうございました。
-## プログラム： （時刻は予定です．話者の皆様の敬称は略させて頂きます．）
+## プログラム： （時刻は予定です。話者の皆様の敬称は略させて頂きます。）
 , 時刻, 議題, 話者,関連WG等, 資料, 動画
 ,13:00-,開会挨拶,藤崎 智宏/ISOC-JP,, [資料](http://www.isoc.jp/materials/20130418/20130418_opening.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/0-isocjp.flv)
 ,13:05-13:30,全体概況,廣海緑里/インテック, IETF intro/Plenary, [資料](http://www.isoc.jp/materials/20130418/20130418_intro.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/1-hiromi.flv)
@@ -25,7 +25,7 @@
 ,15:00-15:15, 休憩,,,
 ,15:15-15:45, IPv6関連WGの状況,川島正伸/ＮＥＣアクセステクニカ ,6man/v6ops/softwire/sunset4,[資料](http://www.isoc.jp/materials/20130418/20130418_ipv6.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/5-kawashima.flv)
 ,15:45-16:15, ルーティングセキュリティ関連状況, 木村泰司/JPNIC, sidr, [資料](http://www.isoc.jp/materials/20130418/20130418_sidr.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/6-kimura.flv)
-,16:15-16:45, セキュリティエリア関連状況, 菅野哲/NTTソフトウェア,PKIX; IPSECME，SAAG; CFRG; Alternative PKI model BoF,[資料](http://www.isoc.jp/materials/20130418/20130418_security.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/7-kanno.flv)
+,16:15-16:45, セキュリティエリア関連状況, 菅野哲/NTTソフトウェア,PKIX; IPSECME、SAAG; CFRG; Alternative PKI model BoF,[資料](http://www.isoc.jp/materials/20130418/20130418_security.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/7-kanno.flv)
 ,16:45-17:00, 休憩,,,
 ,17:00-17:30, M2M関連状況, 坂根昌一/シスコシステムズ, core/roll, [資料](http://www.isoc.jp/materials/20130418/20130418_m2m.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/8-sakane.flv)
 ,17:30-18:00, HTTP関連WG状況, 林達也/レピダム, httpbis/httpauth/oauth/scim, [資料](http://www.isoc.jp/materials/20130418/20130418_appsarea.pdf), [動画](https://www.nic.ad.jp/ja/materials/ietf-report/20130418/9-hayashi.flv)

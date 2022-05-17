@@ -6,7 +6,7 @@
 //* ストリーミング中継URL(13:00〜)
 //* https://livestream.com/internetsociety/isocjp
 //* ストリーミング中継URL
-//**後ほど掲載致します．
+//**後ほど掲載致します。
 *  ハッシュタグ  #isocjp
 
 ## 会合情報

@@ -2,19 +2,19 @@
 ## ISOC-JP ワークショップについて / About ISOC-JP Monthly Workshop
 ### 開催主旨
 
-ISOC-JPワークショップは次のような内容を取り上げ，参加者の間で情報共有や議論を行うことを通じて参加者の相互交流を図ることを目的としています．
+ISOC-JPワークショップは次のような内容を取り上げ、参加者の間で情報共有や議論を行うことを通じて参加者の相互交流を図ることを目的としています。
 
        * ISOCの活動において重要なトピック
        * インターネットに関するホットトピック
        * メンバーの活動の紹介
 
-参加費は無料です．皆様，是非ご参加下さい．
+参加費は無料です。皆様、是非ご参加下さい。
 
 We, ISOC Japan Chapter will hold local chapter workshop possibly one a month. In this workshop, we'll ask an expert to speak about a topic related to activities of ISOC or Hot topic of the Internet also introduce member activity. We are sorry but this event is only in Japanese.
 
 ### 開催予定
 //**決まり次第掲載いたします。
-//** 内容等の詳細は確定の都度，掲載致します．
+//** 内容等の詳細は確定の都度、掲載致します。
 *  [[第三十五回 ISOC-JP ワークショップ / 35th ISOC-JP Workshop](35th_ISOC_JP_Workshop)] ：2021年9月30日（木） 19:30〜21:00
        *  話題：インターネット関連団体・コミュニティショーケース 2021
        *  登壇：小林 茉莉子　(ISOC-JP Vice Chair)、西田 圭 氏　(日本ネットワーク・オペレーターズ・グループ 運営委員)、塩沢 啓 氏　(一般社団法人日本ネットワークインフォメーションセンター)
@@ -47,7 +47,7 @@ We, ISOC Japan Chapter will hold local chapter workshop possibly one a month. In
 *  [[第十六回 ISOC-JP ワークショップ](16th_ISOC_JP_Workshop)] ：2016年6月21日（火）「インターネットガバナンスの話題としての「IANA監督権限移管」を通じて感じたこと」
 *  [[第十五回 ISOC-JP ワークショップ](15th_ISOC_JP_Workshop)] ：2016年5月20日（金）「セキュリティオペレーション自動化に向けた、基盤技術と共通インターフェースの構築」
 *  [[第十四回 ISOC-JP ワークショップ](14th_ISOC_JP_Workshop)] ：2016年4月21日（木）「グローバルにおけるIXPをとりまく技術および技術以外の近況」
-*  [[第十三回 ISOC-JP ワークショップ](13th_ISOC_JP_Workshop)] ：2016年3月22日（火）「ITU-Tにおける標準化と，SG13の最近の動向」
+*  [[第十三回 ISOC-JP ワークショップ](13th_ISOC_JP_Workshop)] ：2016年3月22日（火）「ITU-Tにおける標準化と、SG13の最近の動向」
 *  [[第十二回 ISOC-JP ワークショップ](12th_ISOC_JP_Workshop)] ：2015年12月15日（火）「ルーティングとルーティングセキュリティ」
 *  [[第十一回 ISOC-JP ワークショップ](11th_ISOC_JP_Workshop)] ：2015年11月24日（火）「Webサービスのセキュリティの維持向上について」
 *  [[第十回 ISOC-JP ワークショップ](10th_ISOC_JP_Workshop)] ：2015年10月13日（火）「グローバルなコーディネーショングループの活動について」
@@ -61,4 +61,4 @@ We, ISOC Japan Chapter will hold local chapter workshop possibly one a month. In
 *  [[第二回 ISOC-JP 勉強会](2nd_ISOC_JP_Workshop)]： 2014年9月26日（金）「SDN のこれまでとこれから」
 *  [[第一回 ISOC-JP 勉強会](1st_ISOC_JP_Workshop)]： 2014年7月29日（火）「DNSの夕べ -セキュリティ・技術的動向に関して-」
 ### ワークショップで取り上げるトピックスについて
-ワークショップで取り上げるトピックスを募集しております．members メーリングリストにご投稿頂くか，contact@ml.isoc.jp までご連絡下さい．
+ワークショップで取り上げるトピックスを募集しております。members メーリングリストにご投稿頂くか、contact@ml.isoc.jp までご連絡下さい。

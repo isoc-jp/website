@@ -4,7 +4,7 @@ slug: committees/OnlineIdentityWG
 title: Online Identity Working Group
 featuredImage: /images/uploads/header-isoc.png
 ---
-# 本WG は，2016年12月7日に終了しております．
+# 本WG は、2016年12月7日に終了しております。
 ## 設立趣旨
 Internetが生活に不可欠なものになるにつれて、社会生活において意識すべきこと、生活様式等が少しずつ変化してきています。
 

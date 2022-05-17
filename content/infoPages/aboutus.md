@@ -8,7 +8,7 @@ featuredImage: ../images/uploads/header-isoc.png
 
 # ISOC-JP とは About ISOC-JP
 
-ISOC-JP は，[ISOC](http://www.isoc.org) の日本支部です．ISOC の理念に従い，日本国内におけるインターネットの普及啓蒙，日本の状況の海外発信といったアクティビティを中心に，ボランティアベースで活動を実施しています．
+ISOC-JP は、[ISOC](http://www.isoc.org) の日本支部です。ISOC の理念に従い、日本国内におけるインターネットの普及啓蒙、日本の状況の海外発信といったアクティビティを中心に、ボランティアベースで活動を実施しています。
 
 ISOC-JP is Japan Chapter of Internet Society (ISOC).  Following ISOC's mission, it disseminates and enlights Internet, conducts activities such as reporting status of Japan to overseas.  All activities are volunteer-based.
 
@@ -25,7 +25,7 @@ ISOC-JP is Japan Chapter of Internet Society (ISOC).  Following ISOC's mission, 
 * Secretary: 梶原 龍 Ryo Kajiwara
 * Treasurer: 中島 博敬 Hirotaka Nakajima 
 
-2022年4月に開催された総会にて，2名改選されました(*)．役職は互選で決定致しました． 
+2022年4月に開催された総会にて、2名改選されました(*)。役職は互選で決定致しました。 
 Two new officers were elected in the General Meeting held April 2022. The positions have been determined by mutual vote.
 
 ## 過去の役員 / Former Officers
@@ -37,7 +37,6 @@ Two new officers were elected in the General Meeting held April 2022. The positi
 * Program Chair: 三谷 公美 Kumi MITANI
 * Secretary: 梶原 龍 Ryo Kajiwara
 * Treasurer: 中島 博敬 Hirotaka NAKAJIMA
-
 
 
 # ISOC-JP 再設立について About ISOC-JP rejuvenation
