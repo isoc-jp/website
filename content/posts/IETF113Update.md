@@ -9,7 +9,7 @@ categories:
   - category: IETF報告会
 ---
 
-# IETF報告会 ([113 オンライン](https://www.ietf.org/how/meetings/113/)) / IETF113 Update Meeting
+# 本イベントは2022年5月24日(火)に行われたものです。
 
 2022年3月に開催されました第113回IETFミーティング(Internet Engineering Task Force meeting)をはじめとして旬の話題や議論の動向などをお届けする
 ため、Internet Society 日本支部と一般社団法人日本ネットワークインフォメーションセンターの共催で報告会を開催いたします。
@@ -37,11 +37,6 @@ categories:
 *  WIDEプロジェクト(WIDE)
 
 ### 参加費: 無料
-
-### 参加申込
-*  Zoomのパスワードをお知らせする都合上、以下URLから2022年5月24日までにお申し込みください。
-  * https://us06web.zoom.us/webinar/register/4116524145059/WN_bE5GypgVSJGM_djFC_jBvQ
-
 
 ### 配信URL
 *  今回、ストリーミング配信は行いません。
