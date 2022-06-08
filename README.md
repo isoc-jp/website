@@ -31,8 +31,8 @@ https://www.isoc.jp/aboutus/
 | 編集内容 | レビューや反映の考え方 |
 | ---- | ---- |
 | 軽微な語句の修正 | 各自で反映します。 |
-| チームの他の人にレビューしてもらいたい変更 | Pull requestします。Webメンテナンスチーム ([@isoc-jp/team-website-maintainer](https://github.com/orgs/isoc-jp/teams/team-website-maintainer)) にご連絡 |
-| 議事録やメンバーの変更 | Pull requestします。オフィサー ([@isoc-jp/officer](https://github.com/orgs/isoc-jp/teams/officer)) にご連絡 |
+| チームの他の人にレビューしてもらいたい変更 | Pull requestし、レビューして欲しい人を指定します。レビューが終わったら Pull request した人が merge して close します。Webメンテナンスチーム： ([@isoc-jp/team-website-maintainer](https://github.com/orgs/isoc-jp/teams/team-website-maintainer))  |
+| 議事録やメンバーの変更 | Pull requestします。Pull requestし、レビューして欲しいオフィサーを指定します。レビューが終わったら Pull request した人が merge して close します。オフィサーのご連絡先： ([@isoc-jp/officer](https://github.com/orgs/isoc-jp/teams/officer)) |
 
 <br><br>
 
