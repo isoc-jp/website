@@ -75,6 +75,7 @@ export class Navigation extends Component {
             <NavLink to="/aboutus/">AboutUs</NavLink>
             <NavLink to="/committees/">Committees</NavLink>
             <NavLink to="/activities/">Activities</NavLink>
+            <NavLink to="https://www-old.isoc.jp/">旧Webサイト</NavLink>
             {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
