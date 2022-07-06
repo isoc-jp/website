@@ -8,9 +8,9 @@ featuredImage: ../images/uploads/header-isoc.png
 
 # ISOC-JP とは About ISOC-JP
 
-ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。我々は日本国内でISOCの理念に叶う活動を行います。支部の運営業務は選挙によって選ばれた役員が無給かつパートタイムにて実施しています。
+ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。我々は日本国内でISOCの理念に叶う活動を行います。ISOC-JPの運営業務は選挙によって選ばれた役員が無給かつパートタイムにて実施しています。
 
-ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the chapter are performed by elected officers on an unpaid, part-time basis.
+ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the ISOC-JP are performed by elected officers on an unpaid, part-time basis.
 
 ## ISOC-JP 定款/ISOC-JP Bylaws (12th September 2016)
 
