@@ -122,6 +122,28 @@ Pull requestの中でcloudflareによるエラーが表示されている場合�
 4. http://localhost:8000/ にアクセスする
 <br><br>
 
+## コンテンツ編 - 旧コンテンツの移行（migrate/ 内のファイルの編集）
+
+1. content/migration/ の中のファイルを編集用に開きます。
+2. 先頭に下記のようなテキストを追加します。
+  1. 本文中にあるタイトルをtitle:に記述して本文の方を削除します。
+  2. date:を当時の文書公開日等にします。
+  3. categoryを https://isoc.jp/activities/ をみながら指定します。
+```
+---
+template: SinglePost
+title: 第一回 ISOC-JP 勉強会 / 1st ISOC-JP Workshop
+status: Published
+date: '2018-03-27'
+categories:
+  - category: ISOC-JPワークショップ
+  - category: 各種活動
+---
+```
+3. ページがどのように見えているのが良いのかを踏まえながらマークダウン形式に直します。
+4. pull request します。merge されたら一旦完了です。
+5. (分かる方) このあと、ファイルを content/posts/ に移動してActivitiesのページで表示されるようにすると完了です。(分からない方) Webメンテナンスチームがなんとかしますので merge までで結構です。
+
 ## トラブルシューティング - ローカルのサーバ準備
 
 開発用サーバを起動する時に、環境によっては下記エラーがでるかもしれない。
