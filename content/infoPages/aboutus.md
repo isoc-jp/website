@@ -8,13 +8,13 @@ featuredImage: ../images/uploads/header-isoc.png
 
 # ISOC-JP とは About ISOC-JP
 
-ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。我々は日本国内でISOCの理念に叶う活動を行います。支部の運営業務は選挙によって選ばれた役員が無給かつパートタイムにて実施しています。
+ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。我々は日本国内でISOCの理念に叶う活動を行います。ISOC-JPの運営業務は選挙によって選ばれた役員が無給かつパートタイムにて実施しています。
 
-ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the chapter are performed by elected officers on an unpaid, part-time basis.
+ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the ISOC-JP are performed by elected officers on an unpaid, part-time basis.
 
 ## ISOC-JP 定款/ISOC-JP Bylaws (12th September 2016)
 
-*  [定款/Bylaws](https://www.isoc.jp/materials/bylaws) (前版との差分は[こちら](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a)をご覧下さい/[Comparison to previous version](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a))
+*  [定款/Bylaws](https://www-old.isoc.jp/materials/bylaws) (前版との差分は[こちら](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a)をご覧下さい/[Comparison to previous version](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a))
 
 # 役員/Officers
 
