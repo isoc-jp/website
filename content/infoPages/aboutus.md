@@ -14,7 +14,7 @@ ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our acti
 
 ## ISOC-JP 定款/ISOC-JP Bylaws (12th September 2016)
 
-*  [定款/Bylaws](https://www.isoc.jp/materials/bylaws) (前版との差分は[こちら](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a)をご覧下さい/[Comparison to previous version](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a))
+*  [定款/Bylaws](https://www-old.isoc.jp/materials/bylaws) (前版との差分は[こちら](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a)をご覧下さい/[Comparison to previous version](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a))
 
 # 役員/Officers
 
