@@ -25,8 +25,8 @@ IETFのミーティングは年3回開催されますが、会合の初日に、
        *  [IETF101](https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sessb-ietf-newcomers-overview-japanese-translation-00) (2018/03/17掲載)
        *  [IETF102](https://datatracker.ietf.org/meeting/102/materials/slides-102-edu-sessd-ietf-newcomers-overview-for-ietf-102-japanese-version-00) (2018/07/15掲載)
        *  [IETF104](https://www.ietf.org/slides/slides-edu-ietf-104-newcomer-slides-japanese-00.pdf) (2019/03/22掲載)
-       *  {{ref slides-edu-ietf-105-newcomer-slides-jp.pdf,,IETF105}} (2019/07/20掲載)
-       *  {{ref slides-106-edu-sesse-ietf-106-newcomers-overview-00-jp.pdf,,IETF106}} (2019/11/16掲載)
+       *  [IETF105](https://www-old.isoc.jp/wiki.cgi?page=IETFEduWG&action=ATTACH&file=slides%2Dedu%2Dietf%2D105%2Dnewcomer%2Dslides%2Djp%2Epdf) (2019/07/20掲載)
+       *  [IETF106](https://www-old.isoc.jp/wiki.cgi?action=ATTACH&page=IETFEduWG&file=slides%2D106%2Dedu%2Dsesse%2Dietf%2D106%2Dnewcomers%2Doverview%2D00%2Djp%2Epdf) (2019/11/16掲載)
        *  各回の他の言語の資料は[こちら](https://trac.tools.ietf.org/group/edu/wiki/Tutorial_by_IETF)をご参照ください。
 ## 参考
 *  [IETF Edu Team Wiki](https://trac.tools.ietf.org/group/edu/)
