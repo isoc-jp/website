@@ -22,7 +22,7 @@ ISOC-JP was founded in August 1994, and had been conducted activities for dissem
 
 ### ISOC-JP 定款/ISOC-JP Bylaws (12th September 2016)
 
-*  [定款/Bylaws](https://www.isoc.jp/materials/bylaws) (前版との差分は[こちら](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a)をご覧下さい/[Comparison to previous version](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a))
+*  [定款/Bylaws](https://drive.google.com/file/d/1bSqZazox3A32KZjmmrVLFScUnyRsLiH0/view?usp=sharing) (前版との差分は[こちら](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing)をご覧下さい/[Comparison to previous version](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing))
 
 
 ## 2021 役員/2021 Officers
