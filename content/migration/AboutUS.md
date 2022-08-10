@@ -1,3 +1,11 @@
+---
+template: SinglePost
+title: AboutUS
+status: Published
+date: '2022-08-10'
+categories:
+  - category: AboutUS
+---
 # ISOC-JP のご紹介  Introduction to ISOC-JP
 
 ## ISOC-JP とは About ISOC-JP
