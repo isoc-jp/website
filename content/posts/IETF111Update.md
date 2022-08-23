@@ -32,7 +32,7 @@ categories:
 * 参加費: 無料
 
 ## 参加申込
-*  [Zoom Webinar <https://us06web.zoom.us/webinar/register/6616298727811/WN_Zzloq0VpRpCKiuCGXdaIXw>](https://us06web.zoom.us/webinar/register/6616298727811/WN_Zzloq0VpRpCKiuCGXdaIXw)上で参加登録を受け付けます。2021年9月2日までにお申し込みください。
+*  Zoom上で参加登録を受け付けます。2021年9月2日までにお申し込みください。
     *  ご登録後、ウェビナー参加に関する確認メールが届きます。
 
 ## 配信URL
