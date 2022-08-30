@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: IETF113報告会 / IETF112 Update Meeting
+title: IETF112報告会 / IETF112 Update Meeting
 slug: activities/ietf_updates/112
 status: Published
 date: '2021-12-17'
