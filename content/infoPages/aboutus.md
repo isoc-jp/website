@@ -12,9 +12,9 @@ ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。�
 
 ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the ISOC-JP are performed by elected officers on an unpaid, part-time basis.
 
-## ISOC-JP 定款/ISOC-JP Bylaws (12th September 2016)
+## ISOC-JP 定款/ISOC-JP Bylaws (15th December 2021)
 
-*  [定款/Bylaws](https://www-old.isoc.jp/materials/bylaws) (前版との差分は[こちら](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a)をご覧下さい/[Comparison to previous version](https://github.com/isoc-jp/bylaws/compare/07ed56db568a85d81055b8ff37c082148180fcac...4ded16d469d4e978f47e707e5b1699fbd9446e1d?short_path=11bd13a#diff-11bd13a43f97d4350d33cbba9037763a))
+*  [定款/Bylaws](https://drive.google.com/file/d/1bSqZazox3A32KZjmmrVLFScUnyRsLiH0/view?usp=sharing) (前版との差分は[こちら](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing)をご覧下さい/[Comparison to previous version](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing))
 
 # 役員/Officers
 

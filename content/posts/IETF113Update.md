@@ -50,13 +50,13 @@ categories:
 (敬称略/時間と内容は変わる可能性があります)
 
 * 15:00 開始/オープニング
-* 15:10 IETF 113 全体概要 木村泰司 (JPNIC)
-* 15:25 PQC時代に向けて  米谷嘉朗 (JPRS)
-* 15:40 WebとWebトランスポート関連  後藤ひろゆき（グリー）
+* 15:10 IETF 113 全体概要 木村泰司 (JPNIC)　[発表資料](https://github.com/isoc-jp/website/raw/main/content/posts/IETF113-kimura.pdf)
+* 15:25 PQC時代に向けて  米谷嘉朗 (JPRS)　[発表資料](https://github.com/isoc-jp/website/raw/main/content/posts/IETF113-yoneya.pdf)
+* 15:40 WebとWebトランスポート関連  後藤ひろゆき（グリー）[発表資料](https://github.com/isoc-jp/website/raw/main/content/posts/IETF113-goto.pdf)
 * 15:55 休憩
-* 16:00 IoTデバイスマネジメント関連  磯部光平 (セコム IS研究所)
-* 16:15 RTGエリアアップデート (MPLS, TEAS等)  栃尾祐治 (富士通)
-* 16:30 RTGエリアホットトピック CAN bof  宮坂拓也 (KDDI総合研究所)
+* 16:00 IoTデバイスマネジメント関連  磯部光平 (セコム IS研究所) [発表資料](https://github.com/isoc-jp/website/raw/main/content/posts/IETF113-isobe.pdf)
+* 16:15 RTGエリアアップデート (MPLS, TEAS等)  栃尾祐治 (富士通)  [発表資料](https://github.com/isoc-jp/website/raw/main/content/posts/IETF113-tochio.pdf)
+* 16:30 RTGエリアホットトピック CAN bof  宮坂拓也 (KDDI総合研究所) [発表資料](https://github.com/isoc-jp/website/raw/main/content/posts/IETF113-miyasaka.pdf)
 * 17:00 クロージング/終了予定
 
 ### アーカイブ
