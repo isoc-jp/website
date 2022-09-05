@@ -9,6 +9,8 @@ categories:
   - category: IETF報告会
 ---
 
+<span style="color: red; "><div align="center">&gt;&gt;このイベントは終了いたしました。&lt;&lt;</div></span>
+
 2022年7月に開催されました第114回IETF (Internet Engineering Task Force)ミーティング (IETF 114)の話題や議論の動向などをお届けするため、 Internet Society日本支部と一般社団法人日本ネットワークインフォメーションセンターの共催で報告会を開催いたします。 本報告会が、IETFの最近の動向に触れる機会となれば幸いです。
 
 ## 会合情報
@@ -36,12 +38,6 @@ categories:
 
 
 ### 参加費: 無料
-
-
-### 参加申込
-
-* 下記のURLにアクセスして2022年9月1日までにお申し込みください。
-  * [IETF 114 報告会 ウェビナー登録](https://us06web.zoom.us/webinar/register/1816607863888/WN_zOCeA5luQnm8BbwTC2DJSQ)
 
 
 ### 配信URL
