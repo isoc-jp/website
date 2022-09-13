@@ -46,18 +46,18 @@ categories:
 
 ### プログラム
 
-| 時間 | プログラム/講演者 | 講演資料 |
-|:---------|:---------------------------------------------------|:---------|
-|  16:00  <br><br>| 開始/オープニング<br>ごとうひろゆき（ISPCチェア） | |
-|  16:05  <br><br>| IETF 114 全体概要<br> 木村泰司 (JPNIC) | [IETF114全体概要](https://github.com/isoc-jp/website/raw/main/content/posts/IETF114-kimura.pdf) |
-|  16:20  <br><br>|リモート 学生参加報告 (QUICなど)<br> 山本桃歌（東京大学大学院） | |
-|  16:40  <br><br>|NTP関連<br> ごとうひろゆき（グリー） | |
-|  16:50  | 休憩 | |
-|  17:00  <br><br>|現地参加・COVID-19, IoT関連<br>髙山献（セコム）・磯部光平（セコム）| |
-|  17:30  <br><br>|IETF 116 のお知らせ<br> 江崎浩（WIDEプロジェクト）| [IETF 116 のお知らせ](https://github.com/isoc-jp/website/raw/main/content/posts/IETF114-esaki-ietf116.pdf)  |
-|  17:35  <br><br><br><br>|パネルディスカッション - IETFへの馴染み方 -<br>モデレーター：栃尾祐治（ISOC-JP ISPC）<br>パネリスト：菅野哲（GMOサイバーセキュリティ byイエラエ）<br>塚本明（産業技術総合研究所）<br>根本貴弘（東京農工大学）| |
-|  17:55  <br><br>|終了/クロージング<br>梶原龍（ISOC-JPオフィサー）| |
-|  18:00  |終了 | |
+| 時間 | プログラム/講演者 | 
+|:---------|:---------------------------------------------------|
+|  16:00  <br><br>| 開始/オープニング<br>ごとうひろゆき（ISPCチェア） | 
+|  16:05  <br><br>| [IETF114全体概要](https://drive.google.com/file/d/1FUSFaeTq_22X1JcMYNDmlcJpWiGaxmrC/view?usp=sharing)　<br> 木村泰司 (JPNIC) |  |
+|  16:20  <br><br>|[リモート 学生参加報告 (QUICなど)](https://drive.google.com/file/d/1gg7bIXtG5oxyPKntC4DfJFVZnMKlJKqZ/view?usp=sharing)<br> 山本桃歌（東京大学大学院） | 
+|  16:40  <br><br>|[NTP関連](https://drive.google.com/file/d/1m_JqzrE3GSUuWCYZbDFGSohPv9GpaJ7C/view?usp=sharing)<br> ごとうひろゆき（グリー） | 
+|  16:50  | 休憩 |
+|  17:00  <br><br>|[現地参加・COVID-19, IoT関連](https://drive.google.com/file/d/1dRMP-IHx4GNpwDRbUnw_VsA4N5sZzpvL/view?usp=sharing)<br>髙山献（セコム）・磯部光平（セコム）|
+|  17:30  <br><br>|[IETF 116 のお知らせ](https://drive.google.com/file/d/11SFhHxi-EKipq13v4fQeVnbZbvEP6N0_/view?usp=sharing)<br> 江崎浩（WIDEプロジェクト）| 
+|  17:35  <br><br><br><br>|パネルディスカッション - IETFへの馴染み方 -<br>モデレーター：栃尾祐治（ISOC-JP ISPC）<br>パネリスト：菅野哲（GMOサイバーセキュリティ byイエラエ）<br>塚本明（産業技術総合研究所）<br>根本貴弘（東京農工大学）| 
+|  17:55  <br><br>|終了/クロージング<br>梶原龍（ISOC-JPオフィサー）|
+|  18:00  |終了 |
 
 * ハッシュタグ  #isoc-jp
 
