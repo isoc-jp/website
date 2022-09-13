@@ -47,7 +47,7 @@ ISOC-JP was founded in August 1994, and had been conducted activities for dissem
 
 ## ISOC-JP 再設立の経緯 History of ISOC-JP rejuvenation
 
-*  1994年8月 ISOC-JP 発足 ([当時の認定証 Original Certificate](materials/ISOC-JP-Chapter-Certificate.pdf)) / August 1994: ISOC-JP launched
+*  1994年8月 ISOC-JP 発足 ([当時の認定証 Original Certificate](https://drive.google.com/file/d/1KW9MyxsJLCqNprq8UD1p8t6cTJ8tzrFF/view?usp=sharing) / August 1994: ISOC-JP launched
 *  2009年 活動停滞により，ISOCより「再活性化が必要な支部」と格付け / 2009: recognized as "chapter required rejuvenation"
 *  2010年 ISOC-JP 再活性化活動スタート / 2010: ISOC-JP rejuvenation activities started
 *  2012年8月 ISOCより，正式な支部として再認定 / August 2012: re-approved as formal chapter
