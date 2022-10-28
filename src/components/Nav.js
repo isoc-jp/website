@@ -76,6 +76,7 @@ export class Navigation extends Component {
             <NavLink to="/committees/">Committees</NavLink>
             <NavLink to="/activities/">Activities</NavLink>
             <NavLink to="/newsletter/">News Letter</NavLink>
+            <NavLink to="/executive_council/">EC</NavLink>
             <NavLink to="https://www-old.isoc.jp/">旧Webサイト</NavLink>
             {/* <div
               className={`Nav--Group ${
