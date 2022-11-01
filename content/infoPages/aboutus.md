@@ -16,6 +16,9 @@ ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our acti
 
 *  [定款/Bylaws](https://drive.google.com/file/d/1bSqZazox3A32KZjmmrVLFScUnyRsLiH0/view?usp=sharing) (前版との差分は[こちら](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing)をご覧下さい/[Comparison to previous version](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing))
 
+## ISOC行動規範/ISOC Code of Conduct
+* ISOC-JP定款に記載している行動規範は[こちら](https://www.internetsociety.org/become-a-member/code-of-conduct/)をご覧下さい/ The Code of Conduct described in the ISOC-JP Bylaws is [here](https://www.internetsociety.org/become-a-member/code-of-conduct/).
+
 # 役員/Officers
 
 * Chair: 橘 俊男 Toshio Tachibana *
