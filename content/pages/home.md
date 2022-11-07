@@ -16,8 +16,8 @@ meta:
 
 # お知らせ /News
 
-* 2022年9月2日(金)に [IETF114報告会](https://www.isoc.jp/activities/ietf_updates/114/ "IETF114update") を開催しました。/ IETF114 Update was held on September 2nd 2022.
-* 2022年5月24日(火)に [IETF113報告会](https://www.isoc.jp/activities/ietf_updates/113/ "IETF113update") を開催しました。/ IETF113 Update was held on May 24th 2022.
+* 2022年9月2日(金)に [IETF114報告会](https://www.isoc.jp/activities/ietf_updates/114/ "IETF114update") を開催しました。アーカイブ、講演資料を公開中です。/ IETF114 Update was held on September 2nd 2022.
+* 2022年5月24日(火)に [IETF113報告会](https://www.isoc.jp/activities/ietf_updates/113/ "IETF113update") を開催しました。アーカイブ、講演資料を公開中です。/ IETF113 Update was held on May 24th 2022.
 * 2022年5月16日(月)にISOC-JPのWebサイトをリニューアルしました。旧WebサイトのURLは https://www-old.isoc.jp になりました。/ ISOC-JP website was renewed on May 16. The URL of the old website was changed to https://www-old.isoc.jp.
 * 2021年8月5日 (木) に開催される 第61回ICANN報告会 を後援しています。/ ISOC-JP supports 61st ICANN Readout Session will be held on 5th August 2021.
 * ISOC-JP Newsletter Vol.16 を発行しました (ISOC-JP ニュースレター) / ISOC-JP issued Newsletter Vol.16. (ISOC-JP Newsletter )。
