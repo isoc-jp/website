@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: 202212 ISOC-JP 役員選挙
+slug: activities/2022agm-election
 status: Published
 date: '2022-11-18'
 categories:
