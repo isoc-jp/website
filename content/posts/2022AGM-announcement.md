@@ -14,7 +14,7 @@ categories:
        * 2022年12月13日（火）17:00-18:00(JST) / Tuesday 13th Dec. 2022 17:00-18:00(JST)
 *  場所 / Venue: 
        *  オンライン / Online
-       *  総会参加の申し込み方法は後日お知らせします。 / 
+       *  総会参加の申し込み方法は後日お知らせします。 / We will announce how to attend the meeting later.
 
 *  議事 / Agenda： 
        *  2022年活動報告 / 2022 Activity Report
