@@ -16,8 +16,8 @@ featuredImage: ../images/uploads/header-isoc.png
 ## 過去の規約等 / Former Procedures
 
 * ISOC-JP 運営規則 / ISOC-JP Operating Procedure
-** [2014年1月9日制定/Issued: 9 January 2014)](https://drive.google.com/file/d/1qQVpQee-5MWfRXQcMGpHyzIwNVqiRYKZ/view?usp=share_link)
+  * [2014年1月9日制定/Issued: 9 January 2014)](https://drive.google.com/file/d/1qQVpQee-5MWfRXQcMGpHyzIwNVqiRYKZ/view?usp=share_link)
 * ISOC-JP 電子投票規則 / ISOC-JP Electronic Voting Procedure
-** [2016年11月8日制定/Issued: 8 November 2016)](https://github.com/isoc-jp/bylaws/blob/master/electronic-voting-procedure.md)
+  * [2016年11月8日制定/Issued: 8 November 2016)](https://github.com/isoc-jp/bylaws/blob/master/electronic-voting-procedure.md)
 * ISOC-JP 指名委員会規程 / ISOC-JP Nominating Committee Procedure
-** [2017年9月30日制定/Issued: 30 September 2017)](https://drive.google.com/file/d/1cShhDmGCHHP2O18gdK6MEUlHba0Xp0k9/view?usp=share_link)
+  * [2017年9月30日制定/Issued: 30 September 2017)](https://drive.google.com/file/d/1cShhDmGCHHP2O18gdK6MEUlHba0Xp0k9/view?usp=share_link)
