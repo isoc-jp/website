@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: documents/Procedures
+slug: documents/procedures
 title: 規約等
 subtitle: Procedures
 featuredImage: ../images/uploads/header-isoc.png
