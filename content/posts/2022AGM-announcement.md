@@ -23,4 +23,12 @@ categories:
        *  役員選出 / Election of officers
 
 ## 参加申込 / Registration
-*  現在準備中です。 / Currently under preparation.
+* 参加申し込みURL：https://isocjp.doorkeeper.jp/events/147822
+ 
+上記URLから総会参加のお申し込みいただいた方に対して、当日の参加用zoom URLをISOCシステムに登録されているメールアドレスへご連絡致します。
+総会参加登録に際しては、ISOCの会員番号の提供を必須とさせて頂きます。会員番号の確認方法を以下でご案内いたします。
+ 
+1. [Internet Society Web](https://www.internetsociety.org/)の右上にございますMembers Loginからログイン（ログインID・パスワードを忘れてしまった方に関しては、お手数ですがID・パスワードの再設定をしてからログインをお願い致します）
+2. ご自身のProfileページをクリック
+3. ご自身のアイコン/写真の横に、Members IDと記載されている番号が会員番号となります
+ 
