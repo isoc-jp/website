@@ -23,4 +23,5 @@ categories:
        *  役員選出 / Election of officers
 
 ## 参加申込 / Registration
-*  現在準備中です。 / Currently under preparation.
+以下のページよりお申し込み下さい(申込締切 12月13日 16:30 JST)。/ Please register from the following page. (Registration deadline December 13, 16:30 JST) 
+*  https://isocjp.doorkeeper.jp/events/147822
