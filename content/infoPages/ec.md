@@ -19,3 +19,5 @@ featuredImage: /images/uploads/header-isoc.png
 - [2022 7th ISOC-JP Executive Council Meeting](/ec_minutes/20220706)
 - [2022 8th ISOC-JP Executive Council Meeting](/ec_minutes/20220803)
 - [2022 9th ISOC-JP Executive Council Meeting](/ec_minutes/20220905)
+- [2022 10th ISOC-JP Executive Council Meeting](/ec_minutes/20221012)
+- [2022 11th ISOC-JP Executive Council Meeting](/ec_minutes/20221101)
