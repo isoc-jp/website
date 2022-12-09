@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: IETF115報告会 / IETF115 Update Meeting
-slug: activities/ietf_updates/114
+slug: activities/ietf_updates/115
 status: Published
 date: '2022-12-12'
 categories:
