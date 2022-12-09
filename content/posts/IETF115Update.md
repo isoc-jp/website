@@ -41,6 +41,8 @@ categories:
 
 
 ### 配信URL
+* 下記のURLにアクセスして2022年12月12日までにお申し込みください。
+  * IETF 115 報告会 ウェビナー登録  https://us06web.zoom.us/webinar/register/2516703090062/WN_ZKpd8aM_SGuuq9R-_ZLuyw
 *  今回、ストリーミング配信は行いません。
 *  後日、Zoomの録画をYouTubeに掲載する予定です。
 
@@ -55,7 +57,7 @@ categories:
 |  17:00  | 休憩 |
 |  17:10  <br><br>|QUICとHTTPの話題 <br>ごとうひろゆき（グリー） |
 |  17:35  <br><br>|IETF116のご紹介<br> 澁谷晃（JPNIC / 第116回 IETF Meeting 運営委員会） | 
-|  17:45  オープンマイク | 
+|  17:45  |オープンマイク | 
 |  17:55  <br><br>|終了/クロージング <br>（ISOC-JPオフィサー）|
 |  18:00  |終了 |
 
