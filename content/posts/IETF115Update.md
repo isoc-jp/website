@@ -53,7 +53,7 @@ categories:
 |  16:00  <br><br>| 開始/オープニング<br>ごとうひろゆき（ISPCチェア） | 
 |  16:05  <br><br>| IETF 115 全体概要 <br> 木村泰司 (JPNIC) |  |
 |  16:25  <br><br>|(security) セキュリティ関連とRocca-Sの紹介 <br> 仲野有登（KDDI総合研究所）  | 
-|  16:40  <br><br>|(security) PQCを中心とした暗号技術動向 <br> 菅野哲（GMOサイバーセキュリティ byイエラエ）  | 
+|  16:40  <br><br>|[(security) PQCを中心とした暗号技術動向](https://drive.google.com/file/d/19U9RldoxGty5Tsge8UT9yfiZa0zVUF3h/view?usp=sharing) <br> 菅野哲（GMOサイバーセキュリティ byイエラエ）  | 
 |  17:00  | 休憩 |
 |  17:10  <br><br>|QUICとHTTPの話題 <br>ごとうひろゆき（グリー） |
 |  17:35  <br><br>|IETF116のご紹介<br> 澁谷晃（JPNIC / 第116回 IETF Meeting 運営委員会） | 
