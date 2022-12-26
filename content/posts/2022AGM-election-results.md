@@ -38,7 +38,7 @@ ISOC-JP会員の皆様、
 
 結果はWebサイト上でも見ることができます。
 
-https://drive.google.com/file/d/1m4Y9I81Dg1d8apTZvC2qFWy7Q5sC0ELa/view?usp=share_link
+https://drive.google.com/file/d/1BsKi21j_PGXIFT-HsU5sPZLzke5u_oJs/view?usp=sharing
 
 ISOC-JP 2022年度投票管理者  
 木村 泰司
@@ -71,7 +71,8 @@ As a result, the following candidates have been elected.  As stated in Article I
 In the AGM, when ballot counting was proceeded, we had two scrutineers in the election.
 
 The results are also available on the website:
-https://drive.google.com/file/d/1m4Y9I81Dg1d8apTZvC2qFWy7Q5sC0ELa/view?usp=share_link
+
+https://drive.google.com/file/d/1BsKi21j_PGXIFT-HsU5sPZLzke5u_oJs/view?usp=sharing
 
 Taiji Kimura  
 ISOC-JP 202212 Vote Administrator
