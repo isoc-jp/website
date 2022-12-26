@@ -9,6 +9,8 @@ categories:
   - category: IETF報告会
 ---
 
+<span style="color: red; "><div align="center">&gt;&gt;このイベントは終了いたしました。&lt;&lt;</div></span>
+
 2022年11月に開催されました第115回IETF (Internet Engineering Task Force)ミーティング (IETF 115)の話題や議論の動向などをお届けするため、 Internet Society日本支部と一般社団法人日本ネットワークインフォメーションセンターの共催で報告会を開催いたします。
 本報告会が、2023年3月に横浜で開催されるIETF 116へ向けた情報収集やディスカッションのお役に立ちましたら幸いです。
 
@@ -41,8 +43,6 @@ categories:
 
 
 ### 配信URL
-* 下記のURLにアクセスして2022年12月12日までにお申し込みください。
-  * IETF 115 報告会 ウェビナー登録  https://us06web.zoom.us/webinar/register/2516703090062/WN_ZKpd8aM_SGuuq9R-_ZLuyw
 *  今回、ストリーミング配信は行いません。
 *  後日、Zoomの録画をYouTubeに掲載する予定です。
 
@@ -53,10 +53,10 @@ categories:
 |  16:00  <br><br>| 開始/オープニング<br>ごとうひろゆき（ISPCチェア） | 
 |  16:05  <br><br>| IETF 115 全体概要 <br> 木村泰司 (JPNIC) |  |
 |  16:25  <br><br>|(security) セキュリティ関連とRocca-Sの紹介 <br> 仲野有登（KDDI総合研究所）  | 
-|  16:40  <br><br>|(security) PQCを中心とした暗号技術動向 <br> 菅野哲（GMOサイバーセキュリティ byイエラエ）  | 
+|  16:40  <br><br>|[(security) PQCを中心とした暗号技術動向](https://drive.google.com/file/d/19U9RldoxGty5Tsge8UT9yfiZa0zVUF3h/view?usp=sharing) <br> 菅野哲（GMOサイバーセキュリティ byイエラエ）  | 
 |  17:00  | 休憩 |
 |  17:10  <br><br>|QUICとHTTPの話題 <br>ごとうひろゆき（グリー） |
-|  17:35  <br><br>|IETF116のご紹介<br> 澁谷晃（JPNIC / 第116回 IETF Meeting 運営委員会） | 
+|  17:35  <br><br>|[IETF116のご紹介](https://drive.google.com/file/d/18LAP1-Lm9G9l_31IS58X_SRuGh-CYZhe/view?usp=sharing)<br> 澁谷晃（JPNIC / 第116回 IETF Meeting 運営委員会） | 
 |  17:45  |オープンマイク | 
 |  17:55  <br><br>|終了/クロージング <br>（ISOC-JPオフィサー）|
 |  18:00  |終了 |
