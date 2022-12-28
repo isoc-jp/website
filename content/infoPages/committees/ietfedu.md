@@ -24,17 +24,18 @@ IETFのミーティングは年3回開催されますが、会合の初日に、
 
 ## 活動
 *  &#8203;新規参加者向けチュートリアル(Newcomer's Tutorial) 資料
-       *  [IETF95](https://wiki.tools.ietf.org/group/edu/attachment/wiki/IETF95/95-newcomers-japanese.pdf?format=raw) (2016/04/20掲載)
-       *  [IETF96](https://wiki.tools.ietf.org/group/edu/attachment/wiki/IETF96/96-newcomers-japanese.pptx?format=raw) (2016/07/17掲載)
-       *  [IETF97](https://wiki.tools.ietf.org/group/edu/attachment/wiki/IETF97/97-newcomers-japanese.pdf?format=raw) (2016/11/11掲載)
-       *  [IETF98](https://www.ietf.org/edu/tutorials/98-newcomers-japanese.pdf) (2017/03/27掲載)
-       *  [IETF99](https://trac.ietf.org/trac/edu/raw-attachment/wiki/IETF99/99-newcomers-japanese.pdf) (2017/07/12掲載)
-       *  [IETF100](https://www.isoc.jp/wiki.cgi?file=100%2Dnewcomers%2Djapanese%2Epdf&action=ATTACH&page=IETFEduWG) (2017/11/11掲載)
-       *  [IETF101](https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sessb-ietf-newcomers-overview-japanese-translation-00) (2018/03/17掲載)
-       *  [IETF102](https://datatracker.ietf.org/meeting/102/materials/slides-102-edu-sessd-ietf-newcomers-overview-for-ietf-102-japanese-version-00) (2018/07/15掲載)
-       *  [IETF104](https://www.ietf.org/slides/slides-edu-ietf-104-newcomer-slides-japanese-00.pdf) (2019/03/22掲載)
-       *  {{ref slides-edu-ietf-105-newcomer-slides-jp.pdf,,IETF105}} (2019/07/20掲載)
-       *  {{ref slides-106-edu-sesse-ietf-106-newcomers-overview-00-jp.pdf,,IETF106}} (2019/11/16掲載)
-       *  各回の他の言語の資料は[こちら](https://trac.tools.ietf.org/group/edu/wiki/Tutorial_by_IETF)をご参照ください。
+   *  [IETF95](https://drive.google.com/file/d/1_Q3RR5ohB3_ARDxcxaJZbv6jYE0XoCJU/view?usp=share_link) (2016/04/20掲載)
+   *  [IETF96](https://drive.google.com/file/d/1FwUhlOiUY-qH7CH_1rtAwdHDfjDBbYo_/view?usp=share_link) (2016/07/17掲載)
+   *  [IETF97](https://drive.google.com/file/d/18GQGTeB7xZwavFp8RWAr2j4-ZrpOaklR/view?usp=share_link) (2016/11/11掲載)
+   *  [IETF98](https://drive.google.com/file/d/1BuKodBcuNEpRX3MfpK45oVW3xRcr7cha/view?usp=share_link) (2017/03/27掲載)
+   *  [IETF99](https://drive.google.com/file/d/12vgxfl9JS7ea9tRe5poeNpL5OxVvfddv/view?usp=sharing) (2017/07/12掲載)
+   *  [IETF100](https://datatracker.ietf.org/doc/slides-100-edu-sessk-ietf-100-newcomers-tutorial-japanese-translation/) (2017/11/11掲載)
+   *  [IETF101](https://datatracker.ietf.org/doc/slides-101-edu-sessb-ietf-newcomers-overview-japanese-translation/) (2018/03/17掲載)
+   *  [IETF102](https://datatracker.ietf.org/doc/slides-102-edu-sessd-ietf-newcomers-overview-for-ietf-102-japanese-version/) (2018/07/15掲載)
+   *  [IETF104](https://datatracker.ietf.org/doc/slides-edu-ietf-104-newcomer-slides-japanese/) (2019/03/22掲載)
+   *  [IETF105](https://datatracker.ietf.org/doc/slides-105-edu-sessa-japanese-translation-of-newcomers-overview-ietf-105/) (2019/07/20掲載)
+   *  [IETF106](https://datatracker.ietf.org/doc/slides-106-edu-sesse-japanese-translation-of-newcomers-overview-ietf-106/) (2019/11/16掲載)
+   *  各回の他の言語の資料は[こちら](https://datatracker.ietf.org/group/edu/materials/)をご参照ください。
 ## 参考
-*  [IETF Edu Team Wiki](https://trac.tools.ietf.org/group/edu/)
+*  [IETF Edu Team](https://datatracker.ietf.org/group/edu/about/)
+*  [Education, Mentoring and Outreach Directorate (emodir)](https://datatracker.ietf.org/group/emodir/about/)
