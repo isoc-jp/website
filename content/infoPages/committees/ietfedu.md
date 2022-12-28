@@ -33,7 +33,7 @@ IETFのミーティングは年3回開催されますが、会合の初日に、
    *  [IETF104](https://datatracker.ietf.org/doc/slides-edu-ietf-104-newcomer-slides-japanese/) (2019/03/22掲載)
    *  [IETF105](https://datatracker.ietf.org/doc/slides-105-edu-sessa-japanese-translation-of-newcomers-overview-ietf-105/) (2019/07/20掲載)
    *  [IETF106](https://datatracker.ietf.org/doc/slides-106-edu-sesse-japanese-translation-of-newcomers-overview-ietf-106/) (2019/11/16掲載)
-   *  各回の他の言語の資料は[こちら](https://datatracker.ietf.org/group/edu/materials/)をご参照ください。
+   *  各回の他の言語の資料は[こちら(IETF110以前)](https://datatracker.ietf.org/group/edu/materials/)または[こちら(IETF113以降)](https://datatracker.ietf.org/group/emodir/meetings/)をご参照ください。
 ## 参考
 *  [IETF Edu Team](https://datatracker.ietf.org/group/edu/about/)
 *  [Education, Mentoring and Outreach Directorate (emodir)](https://datatracker.ietf.org/group/emodir/about/)
