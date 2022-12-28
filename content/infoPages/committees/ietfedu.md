@@ -13,12 +13,10 @@ IETFのミーティングは年3回開催されますが、会合の初日に、
 
 ## 構成
 *  主査/Chair
-<!-- //** 根本 貴弘 (青山学院大学)/Takahiro Nemoto (Aoyama Gakuin University) -->
    *  根本 貴弘 (東京農工大学)/Takahiro Nemoto (Tokyo University of Agriculture and Technology)
 *  副査/Vice Chair
    *  藤崎 智宏 (ISOC日本支部)/Tomohiro Fujisaki (ISOC Japan Chapter)
 *  メンバ/Members
-<!-- //** 林 達也 (株式会社レピダム)/Tatsuya Hayashi (Lepidum Co. Ltd.) -->
    *  林 達也 (ココン株式会社)/Tatsuya Hayashi (COCON Inc.)
    *  木村 泰司 (一般社団法人日本ネットワークインフォメーションセンター)/Taiji Kimura (Japan Network Information Center)
 
