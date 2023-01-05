@@ -13,7 +13,7 @@ IETFのミーティングは年3回開催されますが、会合の初日に、
 
 ## 構成
 *  主査/Chair
-   *  根本 貴弘 (東京農工大学)/Takahiro Nemoto (Tokyo University of Agriculture and Technology)
+   * （空席）
 *  副査/Vice Chair
    *  藤崎 智宏 (ISOC日本支部)/Tomohiro Fujisaki (ISOC Japan Chapter)
 *  メンバ/Members
