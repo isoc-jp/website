@@ -76,3 +76,9 @@ categories:
 - ISOC-JPとはどういうところで、どういうことを考えていて、どういうAgendaを扱うグループなのか考えているのか、ということを周知する必要がある
 - Civil Societyとしての活動をしている団体と連携していければ
 - IETF横浜を期に新しい人を巻き込んでいきたい
+
+## 6. 資料
+
+各種発表スライド
+
+https://drive.google.com/file/d/1ZG4lkbIix-X0f1qnE8xHlLXutGSMN1di/view
