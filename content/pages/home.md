@@ -11,7 +11,7 @@ meta:
 
 # お知らせ / News
 
-* 2023年1月24日(火)に [IETFの歩き方](https://www.isoc.jp/activities/ietf116_howto_event/ "IETF116HowTo") を開催します。/ Beginners’ exploring guide event for IETF116 will be hold on 24th January 2023.
+* 2023年1月24日(火)に [IETFの歩き方](https://www.isoc.jp/activities/ietf116_howto_event/ "IETF116HowTo") を開催します。/ A hybrid event "Beginner's exploring guide to IETF116" will be held on 24th January 2023.
 * [訃報：高橋徹氏 / 2012 Internet hall of fame Inductee, Mr. Toru Takahashi passed away.](https://www.isoc.jp/news/2022122501/)
 * インターネットソサエティ(ISOC)の各支部は、毎年、本部より活動状況に関する評価を受けます。ISOC-JPは、2022年の活動状況について「Gigabit Chapter」(最上位の評価)を得ました。ISOC-JPの活動への皆様のご協力に深く感謝します。/ Internet Society evaluates its Chapters every year. For our last year(2022) activities, we got 'Gigabit Chapter' evaluation, which is the highest lank. We would appreciate your continued cooperation to ISOC-JP.
 * [ISOC-JP Newsletter Vol.18 を発行しました。 / ISOC-JP issued Newsletter Vol.18.](https://www.isoc.jp/newsletter/)
