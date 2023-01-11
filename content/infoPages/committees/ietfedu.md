@@ -5,6 +5,7 @@ title: IETF Education Working Group
 featuredImage: /images/uploads/header-isoc.png
 ---
 
+# 本WG は、2023年1月11日に終了しております。
 # IETF Education Working Group
 ## 設立趣旨
 IETF (Internet Engineering Task Force) は、インターネット技術の標準化団体であり、従来よりISOCが支援しています。
