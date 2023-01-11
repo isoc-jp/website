@@ -20,9 +20,9 @@ ISOC-JP では、定款に基づき、以下の委員会を設立し、活動し
 
 # ワーキンググループ/Working Groups
 
-* [IETF Education Working Group](ietf_edu_wg)
 * [ISOC-JP IETF Publicity Working Group](/committees/ietf_pub_wg)
 
 # 終了した委員会、WG / Closed committees and WGs.
 
+* [（2023.1.11 終了） IETF Education Working Group](/committees/ietf_edu_wg)
 * [（2016.12.7 終了） Online Identity Working Group](/committees/onlineidentitywg)
