@@ -3,7 +3,7 @@ template: SinglePost
 title: 「IETFの歩き方」開催のご案内
 slug: activities/ietf116_howto_event
 status: Published
-date: '2023-02-12'
+date: '2023-01-12'
 categories:
   - category: 各種活動
 ---
