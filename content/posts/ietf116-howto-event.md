@@ -43,7 +43,7 @@ IETFの日本開催は2015年のIETF 94以来となります。 IETF 116を盛�
 ■ 参加申込
 
    現地参加申込：
-   https://isocjp.doorkeeper.jp/events/149780(https://isocjp.doorkeeper.jp/events/149780)<br>
+   [https://isocjp.doorkeeper.jp/events/149780](https://isocjp.doorkeeper.jp/events/149780)<br>
    リモート参加申込：
    [https://us06web.zoom.us/webinar/register/3316734953543/WN_tslLD__tQCq-CsR99vX3Vw](https://us06web.zoom.us/webinar/register/8616734952328/WN_tslLD__tQCq-CsR99vX3Vw)
 
