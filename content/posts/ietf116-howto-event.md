@@ -8,6 +8,9 @@ categories:
   - category: 各種活動
 ---
 
+<span style="color: red; "><div align="center">&gt;&gt;このイベントは終了いたしました。アーカイブ公開中です &lt;&lt;</div></span>
+
+
 2023年3月25日(土)～31日(金)にかけて、IETF[^1] 116が横浜で開催されます。そのIETF 116への参加を検討されている方を対象として、Internet Society日本支部、慶應義塾大学サイバー文明研究センター、一般社団法人日本ネットワークインフォメーションセンターの共催で、勉強会「IETFの歩き方」を開催いたします。
 
 本会合は、従来は会期中に行っていた新規参加者向けチュートリアルを、 早期参加登録期限[^2]の前に開催することで、 新規に参加される方にIETFの様子を知っていただくとともに、 エキスパートと新規参加者の間の交流を深めることを目的としています。
@@ -42,12 +45,9 @@ IETFの日本開催は2015年のIETF 94以来となります。 IETF 116を盛�
 
 ■ 参加申込
 
-   現地参加申込：
-   [https://isocjp.doorkeeper.jp/events/149780](https://isocjp.doorkeeper.jp/events/149780)<br>
-   リモート参加申込：
-   [https://us06web.zoom.us/webinar/register/3316734953543/WN_tslLD__tQCq-CsR99vX3Vw](https://us06web.zoom.us/webinar/register/8616734952328/WN_tslLD__tQCq-CsR99vX3Vw)
+   参加申込の受付は終了しました
 
-■ プログラム(敬称略/予定)
+■ プログラム(敬称略)
 
 | 15:00 | ご案内 |
 | ---- | ---- |
@@ -60,6 +60,10 @@ IETFの日本開催は2015年のIETF 94以来となります。 IETF 116を盛�
 | 16:40 | ソーシャルタイム/ディスカッション <br><br> IETFに参加している方と交流を深めながら、WGやエリアなどについて情報交換を行う時間です。現地参加経験がある方や詳しい方々とグループとなって交流を行います。IETFにおいて、重要な情報を得たり議論に参加したりするために必要となる交流に近いものを日本語で体験します。|
 | 17:25 | ご挨拶 <br> ISOC-JP |
 | 17:30 | 終了予定 |
+
+■ アーカイブ
+
+[IETFの歩き方-YouTube](https://www.youtube.com/live/PsHEvHKUTh8?feature=share)
 
 ■ ハッシュタグ
 
