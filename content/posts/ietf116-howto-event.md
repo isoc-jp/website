@@ -51,8 +51,8 @@ IETFの日本開催は2015年のIETF 94以来となります。 IETF 116を盛�
 
 | 15:00 | ご案内 |
 | ---- | ---- |
-| 15:10 | IETFの道しるべ <br> 坂根昌一（シスコシステムズ） |
-| 15:30 | 覚えておきたいIETFツール <br> 米谷嘉朗（日本レジストリサービス）|
+| 15:10 | [IETFの道しるべ](https://www.slideshare.net/tanupoo/ietfietf20230124pdf-255490139) <br> 坂根昌一（シスコシステムズ） |
+| 15:30 | [覚えておきたいIETFツール](https://drive.google.com/file/d/1hmfSknQJvOdl-B7hzaRlAamzaIrw-uyK/view?usp=sharing) <br> 米谷嘉朗（日本レジストリサービス）|
 | 15:50 | IETF参加の利点とおすすめの活動方針 <br> 伊藤忠彦（セコム）|
 | 16:10 | サイドミーティングやイベントの紹介 <br> 浅井大史（Preferred Networks）|
 | 16:20 | ネットワークのつなぎ方 <br> 浅井大史（Preferred Networks）|
