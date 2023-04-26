@@ -12,6 +12,10 @@ ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。�
 
 ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the ISOC-JP are performed by elected officers on an unpaid, part-time basis.
 
+ISOC-JPの事務局業務は一般社団法人日本ネットワークインフォメーションセンター(JPNIC)によって行われています。
+
+ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
+
 ## ISOC-JP 定款/ISOC-JP Bylaws (15th December 2021)
 
 *  [定款/Bylaws](https://drive.google.com/file/d/1bSqZazox3A32KZjmmrVLFScUnyRsLiH0/view?usp=sharing) (前版との差分は[こちら](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing)をご覧下さい/[Comparison to previous version](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing))
@@ -36,7 +40,7 @@ Two new officers were elected in the Annual General Meeting held December 2022. 
 
 ## 過去の役員 / Former Officers
 
-# 2022 役員/2021 Officers
+# 2022 役員/2022 Officers
 
 * Chair: 橘 俊男 Toshio Tachibana
 * Vice Chair: 根本 貴弘 Takahiro Nemoto
