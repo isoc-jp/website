@@ -8,6 +8,8 @@ categories:
   - category: 各種活動
 ---
 
+<span style="color: red; "><div align="center">&gt;&gt;このイベントは終了いたしました。アーカイブ公開中です &lt;&lt;</div></span>
+
 
 国際連合が主催するインターネットガバナンスフォーラム(Internet Governance Forum, IGF)の2023年会合（以下「IGF2023」）が、初めて日本で開催されることになりました。
 
@@ -48,9 +50,7 @@ IGF2023日本開催に向けて、グローバルな情報社会に向けた日�
 
 ■ 参加申込
 
-   2023年4月27日(木)17時までに、以下Webページよりお申し込みください。<br>
-   https://us06web.zoom.us/meeting/register/tZwsd-2tpjIrHd2RSTEcq2OYgWVOmjlzI2Ma
-
+   参加申込の受付は終了しました
 
 ■ プログラム(敬称略)
 
@@ -59,6 +59,10 @@ IGF2023日本開催に向けて、グローバルな情報社会に向けた日�
 | 19:00 | IGF概要及びIGFのプログラム(Workshop, Open Forumなど)について <br> 前村昌紀（日本IGFタスクフォース事務局／一般社団法人日本ネットワークインフォメーションセンター(JPNIC)） |
 | 19:20 | ワークショップ提案書の書き方 <br> 小林茉莉子（ISOC-JP vice chair）|
 | 19:40 | 質疑・オープンディスカッション |
+
+■ アーカイブ
+
+[IGF2023に向けたセッション提案チュートリアル-YouTube](https://www.youtube.com/watch?v=SY3J0Gbuyis)
 
 ■ お問い合わせ先
 
