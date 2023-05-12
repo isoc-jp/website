@@ -39,8 +39,14 @@ categories:
 *  WIDEプロジェクト(WIDE)
 
 
-### 参加費: 無料
+### 参加費:
+*  無料
 
+### 参加申し込み:
+
+* 下記のURLにアクセスして当日までにお申し込みください。<br>
+IETF 116 報告会 ウェビナー登録<br>
+https://us06web.zoom.us/webinar/register/8216837171268/WN_NDu91aR6QraVbCBrr_XkPQ
 
 ### 配信URL
 *  今回、ストリーミング配信は行いません。
