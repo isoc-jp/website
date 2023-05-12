@@ -11,13 +11,12 @@ meta:
 
 # お知らせ / News
 
+* 2023年5月25日(木)に [IETF116報告会](https://www.isoc.jp/activities/ietf_updates/116/ "IETF116update") を開催します。/ IETF116 Update was held on May 25 2023.
 * 2023年4月27日(木)に [IGF2023に向けたセッション提案チュートリアル](https://www.isoc.jp/activities/session_proposal_tutorial_for_igf2023/) を開催しました。アーカイブを公開中です。/ A online event "Session proposal tutorial for IGF2023" was held on Thursday, April 27, 2023.
 * 2023年1月24日(火)に [IETFの歩き方](https://www.isoc.jp/activities/ietf116_howto_event/ "IETF116HowTo") を開催しました。資料、アーカイブを公開中です。/ A hybrid event "Beginner's exploring guide to IETF116" was held on 24th January 2023.
 * [訃報：高橋徹氏 / 2012 Internet hall of fame Inductee, Mr. Toru Takahashi passed away.](https://www.isoc.jp/news/2022122501/)
 * インターネットソサエティ(ISOC)の各支部は、毎年、本部より活動状況に関する評価を受けます。ISOC-JPは、2022年の活動状況について「Gigabit Chapter」(最上位の評価)を得ました。ISOC-JPの活動への皆様のご協力に深く感謝します。/ Internet Society evaluates its Chapters every year. For our last year(2022) activities, we got 'Gigabit Chapter' evaluation, which is the highest lank. We would appreciate your continued cooperation to ISOC-JP.
 * [ISOC-JP Newsletter Vol.18 を発行しました。 / ISOC-JP issued Newsletter Vol.18.](https://www.isoc.jp/newsletter/)
-* 2022年12月12日(月)に [IETF115報告会](https://www.isoc.jp/activities/ietf_updates/115/ "IETF115update") を開催しました。/ IETF115 Update was held on December 12th 2022.
-* 2022年5月16日(月)にISOC-JPのWebサイトをリニューアルしました。旧WebサイトのURLは https://www-old.isoc.jp になりました。/ ISOC-JP website was renewed on May 16. The URL of the old website was changed to https://www-old.isoc.jp.
 
 # 活動 / Activities
 
