@@ -61,7 +61,7 @@ https://us06web.zoom.us/webinar/register/8216837171268/WN_NDu91aR6QraVbCBrr_XkPQ
 |  16:50  <br><br>| E2E暗号・プライバシー強化関連技術 <br> 安次富大介 | 
 |  17:10  <br><br>| Quantum Internet <br> 永山翔太（メルカリR4D） | 
 |  17:30  <br><br>| IoTセキュリティに関するハッカソン報告 <br> 塚本明 |
-|  17:50  <br><br>| 学生参加報告（仮）<br> 澤田開杜（慶應義塾大学） | 
+|  17:50  <br><br>| 学生参加報告（ハッカソン・CATS）<br> 澤田開杜（慶應義塾大学） | 
 |  18:10  <br><br>| IETF 116 Yokohamaに参加してきました <br> 中村勇介 | 
 |  18:25  <br><br>| 終了/クロージング <br>（ISOC-JPオフィサー）|
 
