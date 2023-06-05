@@ -11,7 +11,7 @@ meta:
 
 # お知らせ / News
 
-* 2023年5月25日(木)に [IETF116報告会](https://www.isoc.jp/activities/ietf_updates/116/ "IETF116update") を開催します。/ IETF116 Update was held on May 25 2023.
+* 2023年5月25日(木)に [IETF116報告会](https://www.isoc.jp/activities/ietf_updates/116/ "IETF116update") を開催しました。/ IETF116 Update was held on May 25 2023.
 * 2023年4月27日(木)に [IGF2023に向けたセッション提案チュートリアル](https://www.isoc.jp/activities/session_proposal_tutorial_for_igf2023/) を開催しました。アーカイブを公開中です。/ A online event "Session proposal tutorial for IGF2023" was held on Thursday, April 27, 2023.
 * 2023年1月24日(火)に [IETFの歩き方](https://www.isoc.jp/activities/ietf116_howto_event/ "IETF116HowTo") を開催しました。資料、アーカイブを公開中です。/ A hybrid event "Beginner's exploring guide to IETF116" was held on 24th January 2023.
 * [訃報：高橋徹氏 / 2012 Internet hall of fame Inductee, Mr. Toru Takahashi passed away.](https://www.isoc.jp/news/2022122501/)
