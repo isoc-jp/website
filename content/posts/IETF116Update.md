@@ -57,12 +57,12 @@ https://us06web.zoom.us/webinar/register/8216837171268/WN_NDu91aR6QraVbCBrr_XkPQ
 | 時間 | プログラム/講演者 | 
 |:---------|:---------------------------------------------------|
 |  16:30  <br><br>| 開始/オープニング<br>ごとうひろゆき（ISPCチェア） | 
-|  16:35  <br><br>| IETF 116 全体概要 <br> 木村泰司 (JPNIC) |  |
-|  16:50  <br><br>| E2E暗号・プライバシー強化関連技術 <br> 安次富大介 | 
-|  17:10  <br><br>| Quantum Internet <br> 永山翔太（メルカリR4D） | 
+|  16:35  <br><br>| [IETF 116 全体概要](/files/IETF116-kimura.pdf) <br> 木村泰司 (JPNIC) |  |
+|  16:50  <br><br>| [E2E暗号・プライバシー強化関連技術](https://docs.google.com/presentation/d/1T28QVrXvVRxCxh3awsGTXZGy3pDF_cOyMe-JpD_zHbA/edit#slide=id.p) <br> 安次富大介 | 
+|  17:10  <br><br>| [Quantum Internet](https://docs.google.com/presentation/d/1M4qD-QrTiyF2_peQaO-DzkbDZirTTO9AgaMsny0zTX8/edit?usp=sharing) <br> 永山翔太（メルカリR4D） | 
 |  17:30  <br><br>| IoTセキュリティに関するハッカソン報告 <br> 塚本明 |
-|  17:50  <br><br>| 学生参加報告（ハッカソン・CATS）<br> 澤田開杜（慶應義塾大学） | 
-|  18:10  <br><br>| IETF 116 Yokohamaに参加してきました <br> 中村勇介 | 
+|  17:50  <br><br>| [学生参加報告（ハッカソン・CATS）](https://docs.google.com/presentation/d/1vNkElC2sVYB7e6kkv0EvsYG1uHVEVq1f7TtO-Sh_cUU/edit#slide=id.g2256f6652b3_0_546 )<br> 澤田開杜（慶應義塾大学） | 
+|  18:10  <br><br>| [IETF 116 Yokohamaに参加してきました](https://slide.rabbit-shocker.org/authors/unasuke/isocjp-ietf-116-report/) <br> 中村勇介 | 
 |  18:25  <br><br>| 終了/クロージング <br>（ISOC-JPオフィサー）|
 
 * ハッシュタグ  #isoc-jp
