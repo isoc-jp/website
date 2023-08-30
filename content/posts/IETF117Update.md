@@ -64,7 +64,7 @@ GMOインターネットグループ グループ本社 GMO Yours
 |  17:20  <br><br>| [HTTPに関連する最新動向](/files/IETF117-report-mtg_HTTP_Goto.pdf) <br> ごとうひろゆき氏（グリー）| 
 |  17:35  <br><br>| [DNSに関連する最新動向](/files/IETF117-report-mtg_fujiwara.pdf) <br> 藤原和典氏 (JPRS)　 | 
 |  17:50  <br><br>| [RPKIに関連する最新動向](/files/IETF117-report-mtg_rpki-kimura-02.pdf) <br> 木村泰司（JPNIC）| 
-|  18:00  <br><br><br><br><br> | [ディスカッション - IETFと国内での活動 -](/files/IETF117-report-mtg_rpki-kimura-02.pdf) <br> モデレーター：木村泰司（JPNIC）<br> パネリスト：奥田哲矢氏（NTT社会情報研究所）<br> 　　　　　石原匠氏（慶応義塾大学・WIDEプロジェクト）<br> 　　　　　岩井正輝氏（九州⼯業⼤学）| 
+|  18:00  <br><br><br><br><br> | [ディスカッション - IETFと国内での活動 -](/files/IETF117-report-mtg_discussion-03.pdf) <br> モデレーター：木村泰司（JPNIC）<br> パネリスト：奥田哲矢氏（NTT社会情報研究所）<br> 　　　　　石原匠氏（慶応義塾大学・WIDEプロジェクト）<br> 　　　　　岩井正輝氏（九州⼯業⼤学）| 
 |  18:20  <br><br><br><br> | 終了/クロージング/お知らせ <br> 梶原龍（ISOC-JPオフィサー）<br><br> JPNICより| 
 
 ※プログラムは変更になる可能性がございます。あらかじめご了承ください。
