@@ -8,6 +8,7 @@ categories:
   - category: 各種活動
   - category: IETF報告会
 ---
+<span style="color: red; "><div align="center">&gt;&gt;このイベントは終了いたしました。&lt;&lt;</div></span>
 
 2023年3月に開催されました第116回IETF*1ミーティング(IETF 116)の話題や議論の動向などをお届けするため、 Internet Society日本支部と一般社団法人日本ネットワークインフォメーションセンターの共催で報告会を開催いたします。 本報告会が、IETFの最近の動向に触れる機会となれば幸いです。 
 
@@ -18,7 +19,7 @@ categories:
 ## 会合情報
 
 
-### 日時: 2023年5月25日(木) 16:30-18:30 (予定)
+### 日時: 2023年5月25日(木) 16:30-18:30
 
 
 ### 会場: オンライン
@@ -41,12 +42,6 @@ categories:
 
 ### 参加費:
 *  無料
-
-### 参加申し込み:
-
-* 下記のURLにアクセスして当日までにお申し込みください。<br>
-IETF 116 報告会 ウェビナー登録<br>
-https://us06web.zoom.us/webinar/register/8216837171268/WN_NDu91aR6QraVbCBrr_XkPQ
 
 ### 配信URL
 *  今回、ストリーミング配信は行いません。
