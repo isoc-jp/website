@@ -52,7 +52,7 @@ GMOインターネットグループ グループ本社 GMO Yours
 |  第一部 <br>| ホットトピック | 
 |  15:40  <br><br>| [IETF 117 全体概要](/files/IETF117report_overview-03-kimura.pdf) <br> 木村泰司 (JPNIC) | 
 |  15:55  <br><br><br>| ハッカソンレポート（超低遅延暗号）・暗号技術動向 <br> 酒見由美氏（GMOサイバーセキュリティ byイエラエ / GMO Internet Group Developer Expert） |  
-|  16:10  <br><br>| [IoTデバイスマネジメント関連](/files/IETF117報告会_全体概要03-木村.pdf) <br> 磯部光平氏・髙山献氏（セコム IS研究所）| 
+|  16:10  <br><br>| [IoTデバイスマネジメント関連](/files/IETF117-report-mtg_IoT-device-management.pdf) <br> 磯部光平氏・髙山献氏（セコム IS研究所）| 
 |  16:25  <br>| 休憩 | 
 |  第二部 <br>| フェローシップ参加報告 | 
 |  16:30  <br><br>| IETF 117 Report ― 技術的な社会貢献を実現するために <br> 岩井正輝氏（九州⼯業⼤学） | 
@@ -61,17 +61,17 @@ GMOインターネットグループ グループ本社 GMO Yours
 |  17:00  <br><br>| IETF117参加報告: dmm, ネットワークスライシング <br> 藤田玲央氏（ソフトバンク） | 
 |  17:10  <br>| 休憩 | 
 |  第三部 <br>| 各分野の報告 | 
-|  17:20  <br><br>| [HTTPに関連する最新動向](/files/IETF117報告会_HTTP_Goto.pdf) <br> ごとうひろゆき氏（グリー）| 
-|  17:35  <br><br>| [DNSに関連する最新動向](/files/IETF117報告会_HTTP_Goto.pdf) <br> 藤原和典氏 (JPRS)　 | 
-|  17:50  <br><br>| [RPKIに関連する最新動向](/files/IETF117報告会_RPKI関連-木村-02.pdf) <br> 木村泰司（JPNIC）| 
-|  18:00  <br><br><br><br><br> | [ディスカッション - IETFと国内での活動 -](/files/IETF117報告会-ディスカッション-03.pdf) <br> モデレーター：木村泰司（JPNIC）<br> パネリスト：奥田哲矢氏（NTT社会情報研究所）<br> 　　　　　石原匠氏（慶応義塾大学・WIDEプロジェクト）<br> 　　　　　岩井正輝氏（九州⼯業⼤学）| 
+|  17:20  <br><br>| [HTTPに関連する最新動向](/files/IETF117-report-mtg_HTTP_Goto.pdf) <br> ごとうひろゆき氏（グリー）| 
+|  17:35  <br><br>| [DNSに関連する最新動向](/files/IETF117-report-mtg_fujiwara.pdf) <br> 藤原和典氏 (JPRS)　 | 
+|  17:50  <br><br>| [RPKIに関連する最新動向](/files/IETF117-report-mtg_rpki-kimura-02.pdf) <br> 木村泰司（JPNIC）| 
+|  18:00  <br><br><br><br><br> | [ディスカッション - IETFと国内での活動 -](/files/IETF117-report-mtg_rpki-kimura-02.pdf) <br> モデレーター：木村泰司（JPNIC）<br> パネリスト：奥田哲矢氏（NTT社会情報研究所）<br> 　　　　　石原匠氏（慶応義塾大学・WIDEプロジェクト）<br> 　　　　　岩井正輝氏（九州⼯業⼤学）| 
 |  18:20  <br><br><br><br> | 終了/クロージング/お知らせ <br> 梶原龍（ISOC-JPオフィサー）<br><br> JPNICより| 
 
 ※プログラムは変更になる可能性がございます。あらかじめご了承ください。
 
 #### ハッシュタグ
 
-#isoc-jp #GMOYours
+\#isoc-jp \#GMOYours
 
 #### お問い合わせ先
 ietf-mtg@isoc.jp
