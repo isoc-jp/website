@@ -11,7 +11,7 @@ meta:
 
 # お知らせ / News
 
-* 2023年8月28日(月)に [IETF117報告会](https://www.isoc.jp/activities/ietf_updates/117/ "IETF117update") を開催します。/ IETF117 Update will be held on Aug 28 2023.
+* 2023年8月28日(月)に [IETF117報告会](https://www.isoc.jp/activities/ietf_updates/117/ "IETF117update") を開催しました。/ IETF117 Update was held held on Aug 28 2023.
 * 2023年5月25日(木)に [IETF116報告会](https://www.isoc.jp/activities/ietf_updates/116/ "IETF116update") を開催しました。/ IETF116 Update was held on May 25 2023.
 * 2023年4月27日(木)に [IGF2023に向けたセッション提案チュートリアル](https://www.isoc.jp/activities/session_proposal_tutorial_for_igf2023/) を開催しました。アーカイブを公開中です。/ A online event "Session proposal tutorial for IGF2023" was held on Thursday, April 27, 2023.
 
