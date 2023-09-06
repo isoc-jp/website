@@ -58,7 +58,7 @@ GMOインターネットグループ グループ本社 GMO Yours
 |  16:30  <br><br>| [IETF 117 Report ― 技術的な社会貢献を実現するために](/files/IETF117-report-mtg_iwai_v2.pdf) <br> 岩井正輝氏（九州⼯業⼤学） | 
 |  16:40  <br><br>| [学生参加報告(dmm, dmarcなど)](/files/IETF117-report-mtg_takuan.pdf) <br> 石原匠氏（慶応義塾大学・WIDEプロジェクト） | 
 |  16:50  <br><br>| [ドラフトを書いてIETFに行ってきました](https://docs.google.com/presentation/d/1BKnkS9LQHKHtFjf-wFbLux3TVkrF_q3nyC4hPBj_gJ0/edit?usp=sharing) <br> 柚山大哉氏（慶應義塾大学） | 
-|  17:00  <br><br>| IETF117参加報告: dmm, ネットワークスライシング <br> 藤田玲央氏（ソフトバンク） | 
+|  17:00  <br><br>| [IETF117参加報告: dmm, ネットワークスライシング](/files/IETF117-report-mtg_fujita.pdf) <br> 藤田玲央氏（ソフトバンク） | 
 |  17:10  <br>| 休憩 | 
 |  第三部 <br>| 各分野の報告 | 
 |  17:20  <br><br>| [HTTPに関連する最新動向](/files/IETF117-report-mtg_HTTP_Goto.pdf) <br> ごとうひろゆき氏（グリー）| 
