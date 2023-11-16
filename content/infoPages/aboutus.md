@@ -29,8 +29,7 @@ ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
 
 # 役員/Officers
 
-* Chair: 小林 茉莉子 Mariko Kobayashi *
-  * 〜2023/9: Vice Chair
+* Vice Chair: 小林 茉莉子 Mariko Kobayashi *
 * Program Chair: 木村 泰司 Taiji Kimura
 * Secretary: 梶原 龍 Ryo Kajiwara
 * Treasurer: 藤崎 智宏 Tomohiro Fujisaki *
