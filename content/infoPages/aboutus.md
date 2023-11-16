@@ -22,14 +22,13 @@ ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
 
 ## ISOC-JP 規約等/ISOC-JP Procedures
 
-*  [規約等/Procedures](https://www.isoc.jp/documents/procedures/) 
+*  [規約等/Procedures](https://www.isoc.jp/documents/procedures/)
 
 ## ISOC行動規範/ISOC Code of Conduct
 * ISOC-JP定款に記載している行動規範は[こちら](https://www.internetsociety.org/become-a-member/code-of-conduct/)をご覧下さい/ The Code of Conduct described in the ISOC-JP Bylaws is [here](https://www.internetsociety.org/become-a-member/code-of-conduct/).
 
 # 役員/Officers
 
-* Chair: 橘 俊男 Toshio Tachibana
 * Vice Chair: 小林 茉莉子 Mariko Kobayashi *
 * Program Chair: 木村 泰司 Taiji Kimura
 * Secretary: 梶原 龍 Ryo Kajiwara
@@ -39,6 +38,10 @@ ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
 Two new officers were elected in the Annual General Meeting held December 2022. The positions have been determined by mutual vote.
 
 ## 過去の役員 / Former Officers
+
+# 2023 役員/2023 Officers
+
+* Chair: 橘 俊男 Toshio Tachibana (〜2023/9)
 
 # 2022 役員/2022 Officers
 
