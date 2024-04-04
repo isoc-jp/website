@@ -29,20 +29,25 @@ ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
 
 # 役員/Officers
 
-* Vice Chair: 小林 茉莉子 Mariko Kobayashi *
-* Program Chair: 木村 泰司 Taiji Kimura
-* Secretary: 梶原 龍 Ryo Kajiwara
-* Treasurer: 藤崎 智宏 Tomohiro Fujisaki *
+* Chair: 小林 茉莉子 Mariko Kobayashi
+* Vice Chair: 藤崎 智宏 Tomohiro Fujisaki
+* Program Chair: 三谷 公美 Kumi MITANI *
+* Secretary: 松崎 吉伸 Yoshinobu Matsuzaki *
+* Treasurer: 長谷部 克幸 Katsuyuki Hasebe *
 
-2022年12月に開催された年次総会にて、2名改選されました(*)。役職は互選で決定致しました。
-Two new officers were elected in the Annual General Meeting held December 2022. The positions have been determined by mutual vote.
+2023年12月に開催された年次総会にて、3名改選されました(*)。役職は互選で決定致しました。
+Three new officers were elected in the Annual General Meeting held December 2023. The positions have been determined by mutual vote.
 
 ## 過去の役員 / Former Officers
 
 # 2023 役員/2023 Officers
 
 * Chair: 橘 俊男 Toshio Tachibana (〜2023/9)
-
+* Vice Chair: 小林 茉莉子 Mariko Kobayashi
+* Program Chair: 木村 泰司 Taiji Kimura
+* Secretary: 梶原 龍 Ryo Kajiwara
+* Treasurer: 藤崎 智宏 Tomohiro Fujisaki
+  
 # 2022 役員/2022 Officers
 
 * Chair: 橘 俊男 Toshio Tachibana
