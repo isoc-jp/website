@@ -40,16 +40,16 @@ categories:
 |:------------|:---------------------------------------------------|
 |  15:00  <br><br><br><br> | オープニング/ご挨拶<br>ごとうひろゆき（ISOC-JPインターネット標準化推進委員会チェア）<br><br> 会場について | 
 |  第一部 <br>| 動向/報告 | 
-|  15:10  <br><br>| [IETF 120 全体概要](/files/IETF120情報交換会-全体概要-木村-03.pdf) <br> 木村泰司 (JPNIC) | 
+|  15:10  <br><br>| [IETF 120 全体概要](/files/IETF120-report-gaiyou-kimura-03.pdf) <br> 木村泰司 (JPNIC) | 
 |  15:30  <br><br>| Media over QUIC関連(資料公開なし) <br> ごとうひろゆき（グリー） |  
 |  15:50  <br>| 休憩 | 
 |  第二部 <br>| フェローシップ参加セッション | 
 |  16:35  <br>| 休憩 | 
 |  第三部 <br>| ホットトピック | 
-|  16:45  <br><br>| ["アツい"RFC / DNSを逆から読む](/files/IETF120情報交換会-DNS-大谷.pdf) <br> 大谷亘（JPNIC）| 
-|  17:00  <br><br>| [AEAD to non-AEAD Downgrade AttackとCOSEでの対策案](/files/IETF120情報交換会-COSE-髙山.pdf) <br> 髙山献（セコム IS研究所）| 
-|  17:15  <br><br>| [IETF 119 120におけるSecurity AREAと関連技術開発の動向レポート](/files/IETF120情報交換会-セキュリティ-塚本.pdf) <br> 塚本明（アラクサラネットワークス）| 
-|  17:35  <br><br>| [ディスカッション - IETFとダイバーシティ -](/files/IETF120情報交換会-ディスカッション-木村.pdf) <br> モデレーター：木村泰司（JPNIC）| 
+|  16:45  <br><br>| ["アツい"RFC / DNSを逆から読む](/files/IETF120-report-dns-ogai.pdf) <br> 大谷亘（JPNIC）| 
+|  17:00  <br><br>| [AEAD to non-AEAD Downgrade AttackとCOSEでの対策案](/files/IETF120-report-COSE-takayama.pdf) <br> 髙山献（セコム IS研究所）| 
+|  17:15  <br><br>| [IETF 119 120におけるSecurity AREAと関連技術開発の動向レポート](/files/IETF120-report-security-tsukamoto.pdf) <br> 塚本明（アラクサラネットワークス）| 
+|  17:35  <br><br>| [ディスカッション - IETFとダイバーシティ -](/files/IETF120-report-discussion-kimura.pdf) <br> モデレーター：木村泰司（JPNIC）| 
 |  18:00  <br><br><br><br>| クロージング/ご挨拶/お知らせ <br> 長谷部克幸（ISOC-JPオフィサー）<br><br> JPNICより| 
 
 #### ハッシュタグ
