@@ -16,6 +16,10 @@ ISOC-JPの事務局業務は一般社団法人日本ネットワークインフ�
 
 ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
 
+ISOC-JP は、ISOCからの運営資金を受けてISOC-JP活動を円滑に進めるために一般社団法人Internet Society Japan Chapter(ISOC-JP法人)として法人格を設立しました。ISOC-JPオフィサーがその任期中、ISOC-JP法人の理事を務めます。ISOC-JP法人の定款は[こちら](https://isoc.jp/articles-of-incorporation/)をご覧ください。
+
+ISOC-JP has incorporated a legal entity as a General Incorporated Association, Internet Society Japan Chapter (ISOC-JP Corporation) to facilitate ISOC-JP activities by receiving operating funds from ISOC. The ISOC-JP Officer will serve as a member of the Board of Directors of the ISOC-JP Corporation for its term of office. The article of incorporation of the ISOC-JP Corporation is [here](https://isoc.jp/articles-of-incorporation/).
+
 ## ISOC-JP 定款/ISOC-JP Bylaws (15th December 2021)
 
 *  [定款/Bylaws](https://drive.google.com/file/d/1bSqZazox3A32KZjmmrVLFScUnyRsLiH0/view?usp=sharing) (前版との差分は[こちら](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing)をご覧下さい/[Comparison to previous version](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing))
