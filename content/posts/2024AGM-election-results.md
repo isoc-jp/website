@@ -14,6 +14,7 @@ ISOC-JP会員の皆様、
 2024年12月18日(水)に開催されましたISOC日本支部2024年次総会の際に開票を実施しました、2025年度役員の選挙結果をお知らせします。総会の場における開票に際しては、出席者の中から立会人2名の方に開票プロセスをご確認頂きました。
 
 立会人(敬称略)：梶原龍、後藤浩行
+
 (電子投票)投票管理者：松崎吉伸
 
 - 選挙権保持者数          279 (2024年11月23日現在)
@@ -31,8 +32,10 @@ ISOC-JP会員の皆様、
 
 河野美也 氏、藤崎智宏 氏 (50音順)
 
+
 ISOC-JP 2024年度投票管理者
 松崎吉伸
+
 -----
 
 Dear ISOC-JP Members,
@@ -40,6 +43,7 @@ Dear ISOC-JP Members,
 Please let us inform the results of 2024 officers election that the counting of votes were held in the Annual General Meeting (AGM) of Internet Society Japan Chapter held in 18 December 2024. In the AGM, when ballot counting proceeded, we had two scrutineers in the election.
 
 Scrutineers: Ryo Kajiwara and Hiroyuki Goto
+
 Vote Administrator (Electronic voting): Yoshinobu Matsuzaki
 
 - Number of voting rights : 279 (as of 23 November, 2024)
@@ -58,5 +62,5 @@ As a result, the following candidates have been elected. As stated in Article IV
 
 Miya Kohno and Tomohiro Fujisaki
 
-Yoshinobu Matsuzaki
+Yoshinobu Matsuzaki,
 ISOC-JP 2024 Vote Administrator
