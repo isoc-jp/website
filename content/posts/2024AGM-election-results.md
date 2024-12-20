@@ -50,7 +50,6 @@ Vote Administrator (Electronic voting): Yoshinobu Matsuzaki
 - Number of valid ballots (electoronically-voted) : 28
 - Number of invalid ballots : 0
 
-                     
 |Candidates|Electronic Votes|Ranking|
 |----|----|----|
 |Wataru Ohgai|5|4th|
