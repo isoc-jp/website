@@ -2,6 +2,8 @@
 template: SinglePost
 title: 2024年ISOC-JP役員選挙結果 / Result of 2024 Internet Society Japan Chapter (ISOC-JP) officers election
 slug: activities/2024agm-election-results
+status: Published
+date: '2024-12-20'
 categories:
   - category: 各種活動
   - category: 総会
