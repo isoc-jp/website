@@ -12,31 +12,47 @@ ISOC-JP は、[ISOC](https://www.internetsociety.org/) の日本支部です。�
 
 ISOC-JP is Japan’s Chapter of the Internet Society (ISOC). We conduct our activities in Japan in a manner consistent with ISOC’s principles. The administrative duties of the ISOC-JP are performed by elected officers on an unpaid, part-time basis.
 
+ISOC-JPの事務局業務は一般社団法人日本ネットワークインフォメーションセンター(JPNIC)によって行われています。
+
+ISOC-JP secretariat is operated by Japan Network Information Center (JPNIC).
+
+ISOC-JP は、ISOCからの運営資金を受けてISOC-JP活動を円滑に進めるために一般社団法人Internet Society Japan Chapter(ISOC-JP法人)として法人格を設立しました。ISOC-JPオフィサーがその任期中、ISOC-JP法人の理事を務めます。ISOC-JP法人の定款は[こちら](https://isoc.jp/articles-of-incorporation/)をご覧ください。
+
+ISOC-JP has incorporated a legal entity as a General Incorporated Association, Internet Society Japan Chapter (ISOC-JP Corporation) to facilitate ISOC-JP activities by receiving operating funds from ISOC. The ISOC-JP Officers will serve as the Board of Directors of the ISOC-JP Corporation for its term of office. The article of incorporation of the ISOC-JP Corporation is [here](https://isoc.jp/articles-of-incorporation/).
+
 ## ISOC-JP 定款/ISOC-JP Bylaws (15th December 2021)
 
 *  [定款/Bylaws](https://drive.google.com/file/d/1bSqZazox3A32KZjmmrVLFScUnyRsLiH0/view?usp=sharing) (前版との差分は[こちら](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing)をご覧下さい/[Comparison to previous version](https://drive.google.com/file/d/1_DDD4hJ00v3PW-VaED1suApzLrv1gqWb/view?usp=sharing))
 
 ## ISOC-JP 規約等/ISOC-JP Procedures
 
-*  [規約等/Procedures](https://www.isoc.jp/documents/procedures/) 
+*  [規約等/Procedures](https://www.isoc.jp/documents/procedures/)
 
 ## ISOC行動規範/ISOC Code of Conduct
 * ISOC-JP定款に記載している行動規範は[こちら](https://www.internetsociety.org/become-a-member/code-of-conduct/)をご覧下さい/ The Code of Conduct described in the ISOC-JP Bylaws is [here](https://www.internetsociety.org/become-a-member/code-of-conduct/).
 
 # 役員/Officers
 
-* Chair: 橘 俊男 Toshio Tachibana
-* Vice Chair: 小林 茉莉子 Mariko Kobayashi *
-* Program Chair: 木村 泰司 Taiji Kimura
-* Secretary: 梶原 龍 Ryo Kajiwara
-* Treasurer: 藤崎 智宏 Tomohiro Fujisaki *
+* Chair: 小林 茉莉子 Mariko Kobayashi
+* Vice Chair: 藤崎 智宏 Tomohiro Fujisaki
+* Program Chair: 三谷 公美 Kumi MITANI *
+* Secretary: 松崎 吉伸 Yoshinobu Matsuzaki *
+* Treasurer: 長谷部 克幸 Katsuyuki Hasebe *
 
-2022年12月に開催された年次総会にて、2名改選されました(*)。役職は互選で決定致しました。
-Two new officers were elected in the Annual General Meeting held December 2022. The positions have been determined by mutual vote.
+2023年12月に開催された年次総会にて、3名改選されました(*)。役職は互選で決定致しました。
+Three new officers were elected in the Annual General Meeting held December 2023. The positions have been determined by mutual vote.
 
 ## 過去の役員 / Former Officers
 
-# 2022 役員/2021 Officers
+# 2023 役員/2023 Officers
+
+* Chair: 橘 俊男 Toshio Tachibana (〜2023/9)
+* Vice Chair: 小林 茉莉子 Mariko Kobayashi
+* Program Chair: 木村 泰司 Taiji Kimura
+* Secretary: 梶原 龍 Ryo Kajiwara
+* Treasurer: 藤崎 智宏 Tomohiro Fujisaki
+  
+# 2022 役員/2022 Officers
 
 * Chair: 橘 俊男 Toshio Tachibana
 * Vice Chair: 根本 貴弘 Takahiro Nemoto
