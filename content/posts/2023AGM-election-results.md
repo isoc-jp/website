@@ -2,6 +2,8 @@
 template: SinglePost
 title: 2023年ISOC-JP役員選挙結果 / Result of 2023 Internet Society Japan Chapter (ISOC-JP) officers election
 slug: activities/2023agm-election-results
+status: Published
+date: '2023-12-26'
 categories:
   - category: 各種活動
   - category: 総会
