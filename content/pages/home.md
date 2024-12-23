@@ -11,8 +11,8 @@ meta:
 
 # お知らせ / News
 
-* 2024年12月18日にAGMで [2024年ISOC-JP役員選挙の開票] (https://isoc.jp/activities/2024agm-election-results/ "2024 election result")を実施しました。 / We had our officers election on Dec 18 2024.
-* 2024年11月26日に [ISOC-JP BoF「インターネットについて議論しよう！」] (https://isoc.jp/activities/isocjp_bof_iw2024/ "ISOC-JP BoF") を開催しました。/ We held ISOC-JP BoF on Nov 26 2024.
+* 2024年12月18日にAGMで [2024年ISOC-JP役員選挙の開票](https://isoc.jp/activities/2024agm-election-results/ "2024 election result")を実施しました。 / We had our officers election on Dec 18 2024.
+* 2024年11月26日に [ISOC-JP BoF「インターネットについて議論しよう！」](https://isoc.jp/activities/isocjp_bof_iw2024/ "ISOC-JP BoF") を開催しました。/ We held ISOC-JP BoF on Nov 26 2024.
 
 
 # 活動 / Activities
