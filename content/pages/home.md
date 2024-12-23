@@ -11,9 +11,9 @@ meta:
 
 # お知らせ / News
 
-* 2023年8月28日(月)に [IETF117報告会](https://www.isoc.jp/activities/ietf_updates/117/ "IETF117update") を開催しました。/ IETF117 Update was held held on Aug 28 2023.
-* 2023年5月25日(木)に [IETF116報告会](https://www.isoc.jp/activities/ietf_updates/116/ "IETF116update") を開催しました。/ IETF116 Update was held on May 25 2023.
-* 2023年4月27日(木)に [IGF2023に向けたセッション提案チュートリアル](https://www.isoc.jp/activities/session_proposal_tutorial_for_igf2023/) を開催しました。アーカイブを公開中です。/ A online event "Session proposal tutorial for IGF2023" was held on Thursday, April 27, 2023.
+* 2024年12月18日にAGMで [2024年ISOC-JP役員選挙の開票] (https://isoc.jp/activities/2024agm-election-results/ "2024 election result")を実施しました。 / We had our officers election on Dec 18 2024.
+* 2024年11月26日に [ISOC-JP BoF「インターネットについて議論しよう！」] (https://isoc.jp/activities/isocjp_bof_iw2024/ "ISOC-JP BoF") を開催しました。/ We held ISOC-JP BoF on Nov 26 2024.
+
 
 # 活動 / Activities
 

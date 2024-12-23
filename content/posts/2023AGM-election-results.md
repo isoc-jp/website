@@ -38,7 +38,7 @@ ISOC-JP会員の皆様、
 
 結果はWebサイト上でも見ることができます。
 
-https://drive.google.com/file/d/1BsKi21j_PGXIFT-HsU5sPZLzke5u_oJs/view?usp=sharing
+https://www.isoc.jp/activities/2023agm-election-results/
 
 ISOC-JP 2023年度投票管理者
 藤崎 智宏
@@ -77,7 +77,8 @@ As a result, the following candidates have been elected. As stated in Article IV
 Katsuyuki Hasebe, Yoshinobu Matsuzaki, Kumi Mitani
 
 In the AGM, when ballot counting was proceeded, we had two scrutineers in the election. The results are also available on the website:
-https://drive.google.com/file/d/1BsKi21j_PGXIFT-HsU5sPZLzke5u_oJs/view?usp=sharing
+
+https://www.isoc.jp/activities/2023agm-election-results/
 
 Tomohiro Fujisaki
 ISOC-JP 2023 Vote Administrator
