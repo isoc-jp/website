@@ -1,4 +1,3 @@
-
 ---
 template: SinglePost
 title: 第37回 ISOC-JP ワークショップ
