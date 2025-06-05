@@ -16,7 +16,7 @@ categories:
 
 ■ 主催・企画   
    Internet Society日本支部(ISOC-JP)
-   後援：JPNIC（申請中）
+   協力：JPNIC
 
 ■ 会場
    さくらインターネット東京支社
