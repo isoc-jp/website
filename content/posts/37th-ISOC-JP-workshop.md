@@ -37,3 +37,7 @@ categories:
 #### Introduction 石原 匠、河野 美也 (ISOC-JP)
 ## Keynote Presentation  松嶋 聡 (Softbank)
 
+■ [事前資料](https://drive.google.com/file/d/1O_R-oCH5AmndBKgnfNJlxUmbLD8aRJLn/view?usp=sharing)
+
+ 
+
