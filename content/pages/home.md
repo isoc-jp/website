@@ -11,8 +11,10 @@ meta:
 
 # お知らせ / News
 
-* 2024年12月18日にAGMで [2024年ISOC-JP役員選挙の開票] (https://isoc.jp/activities/2024agm-election-results/ "2024 election result")を実施しました。 / We had our officers election on Dec 18 2024.
-* 2024年11月26日に [ISOC-JP BoF「インターネットについて議論しよう！」] (https://isoc.jp/activities/isocjp_bof_iw2024/ "ISOC-JP BoF") を開催しました。/ We held ISOC-JP BoF on Nov 26 2024.
+* 2025年6月5日に、[第37回 ISOC-JP Workshop「インターネットアーキテクチャとIPルーティングパラダイムで切り拓くモバイルネットワークシステムの未来」](https://isoc.jp/activities/37th_isocjp_workshop/)を実施します。これからのモバイルアーキテクチャのあり方について話し合いましょう。　 / We will hold the 37th ISOC-JP workshop - The Future of Mobile Network Systems Pioneered by Internet Architecture and IP Routing Paradigm - on 5 Jun. 2025. Please join us! 
+  
+* 2025年2月10日 - 18日にわたって、JPNIC様と共催で、[「IETF発！技術ハッカソンをやってみよう（第一回 SRv6編）」](https://www.nic.ad.jp/ja/topics/2025/20250122-01.html)を開催しました。/ February 10-18, 2025, a hackathon event co-hosted with JPNIC "Let's Try a Technology Hackathon from IETF (Part 1: SRv6)" was held.
+
 
 
 # 活動 / Activities

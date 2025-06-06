@@ -33,17 +33,25 @@ ISOC-JP has incorporated a legal entity as a General Incorporated Association, I
 
 # 役員/Officers
 
-* Chair: 小林 茉莉子 Mariko Kobayashi
-* Vice Chair: 藤崎 智宏 Tomohiro Fujisaki
-* Program Chair: 三谷 公美 Kumi MITANI *
-* Secretary: 松崎 吉伸 Yoshinobu Matsuzaki *
-* Treasurer: 長谷部 克幸 Katsuyuki Hasebe *
+* Chair: 藤崎 智宏 Tomohiro Fujisaki *
+* Vice Chair: 松崎 吉伸 Yoshinobu Matsuzaki
+* Program Chair: 河野 美也 Miya Kohno *
+* Secretary: 三谷 公美 Kumi MITANI
+* Treasurer: 長谷部 克幸 Katsuyuki Hasebe
 
-2023年12月に開催された年次総会にて、3名改選されました(*)。役職は互選で決定致しました。
-Three new officers were elected in the Annual General Meeting held December 2023. The positions have been determined by mutual vote.
+2024年12月に開催された年次総会にて、2名改選されました(*)。役職は互選で決定致しました。
+Three new officers were elected in the Annual General Meeting held December 2024. The positions have been determined by mutual vote.
 
 ## 過去の役員 / Former Officers
 
+# 2024 役員/2024 Officers
+
+* Chair: 小林 茉莉子 Mariko Kobayashi
+* Vice Chair: 藤崎 智宏 Tomohiro Fujisaki
+* Program Chair: 三谷 公美 Kumi MITANI
+* Secretary: 松崎 吉伸 Yoshinobu Matsuzaki
+* Treasurer: 長谷部 克幸 Katsuyuki Hasebe
+  
 # 2023 役員/2023 Officers
 
 * Chair: 橘 俊男 Toshio Tachibana (〜2023/9)
