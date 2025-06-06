@@ -8,6 +8,7 @@ categories:
   - category: ISOC-JPワークショップ
   - category: 各種活動
 ---
+<span style="color: red; "><div align="center">&gt;&gt;このイベントは終了しました。&lt;&lt;</div></span>
 
 第37回 ISOC-JP Workshopを、以下の要領で開催致します。これからのネットワークシステムアーキテクチャを考える皆様のご参加をお待ちします。
 
@@ -29,7 +30,7 @@ categories:
 ■ 定員
    50名
 
-■ 参加申込
+■ 参加申込ページ
    [https://isoc-jp.connpass.com/event/327642/](https://isoc-jp.connpass.com/event/355505/)
 
 ■ プログラム

@@ -91,12 +91,10 @@ $ emacs <ファイル>
 $ git commit -m "<編集の趣旨>"
 ```
 
-4.自分のリポジトリとして分岐を作成(fork)し、リポジトリにアップロード（push）してからプルリクエストします。
+4.自分のリポジトリとして分岐を作成(fork)し、リポジトリにアップロード（push）してからプルリクエストします。[https://github.com/isoc-jp/website/pulls](https://github.com/isoc-jp/website/pulls)
 
 ```{r}
-$ git fork
-$ git push <GitHubのユーザ名> <作業用ブランチ名>
-$ git pull-request
+$ git push origin <作業用ブランチ名>
 ```
 
 5. GitHub isoc-jp/websiteの「Pull requests」にリストされたら完了です。Pull requestは他の人がレビューするのを待っている状態で、まだ公開Webページには反映されていません。
