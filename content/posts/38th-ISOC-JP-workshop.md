@@ -3,7 +3,7 @@ template: SinglePost
 title: 第38回 ISOC-JP ワークショップ
 slug: activities/37th_ISOCJP_Workshop
 status: Published
-date: '2025-08-21'
+date: '2025-08-20'
 categories:
   - category: ISOC-JPワークショップ
   - category: 各種活動
