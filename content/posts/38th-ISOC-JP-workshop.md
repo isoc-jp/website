@@ -36,7 +36,7 @@ AIインフラの現状と未来、そしてこれからのアーキテクトの
    50名
 
 ■ 参加申込ページ
-   [https://isoc-jp.connpass.com/event/327642/](https://isoc-jp.connpass.com/event/355505/)
+   [https://isoc-jp.connpass.com/event/366745/](https://isoc-jp.connpass.com/event/366745/)
 
 ■ プログラム
 ## AIインフラを考える
