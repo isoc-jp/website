@@ -35,7 +35,8 @@ categories:
 
 ■ プログラム
 ## インターネットアーキテクチャとIPルーティングパラダイムで切り拓く モバイルネットワークシステムの未来
-#### Introduction 石原 匠、河野 美也 (ISOC-JP)
+#### Introduction 河野 美也 (ISOC-JP)
+■ [資料](https://drive.google.com/file/d/1CzVmHhc-qq-XQTofY3x3S8mgmQDIATaF/view?usp=sharing)
 ## Keynote Presentation  松嶋 聡 (Softbank)
 
 ■ [事前資料](https://drive.google.com/file/d/1O_R-oCH5AmndBKgnfNJlxUmbLD8aRJLn/view?usp=sharing)
