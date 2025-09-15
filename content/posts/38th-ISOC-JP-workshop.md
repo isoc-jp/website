@@ -33,7 +33,7 @@ AIインフラの現状と未来、そしてこれからのアーキテクトの
    無料
 
 ■ 定員
-   50名
+   50名 → 応募多数のため、　65名に変更
 
 ■ 参加申込ページ
    [https://isoc-jp.connpass.com/event/366745/](https://isoc-jp.connpass.com/event/366745/)
@@ -42,5 +42,6 @@ AIインフラの現状と未来、そしてこれからのアーキテクトの
 ## AIインフラを考える
 ### 講師：小林 正幸（さくらインターネット）＆ 海老澤 健太郎（Arrcus）
 
-■ [事前資料] (TBD) 
+■ 資料　
+　[「AIインフラを考える」　小林 正幸さま](https://drive.google.com/file/d/1OHIjTcBgWGr87l6kBzcXeJUjMZMSpyrn/view?usp=sharing)
 
