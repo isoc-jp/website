@@ -45,5 +45,5 @@ categories:
 ## AI for Security と Security for AI を考える
 ### 講師：平田 泰一（Cisco Systems）
 
-■ 資料　
-　TBD
+■ [資料](https://drive.google.com/drive/folders/1bnVRj6IKzPqv12glOVurQGIGK3NE51tm?usp=drive_link)　
+　
