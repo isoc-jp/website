@@ -48,5 +48,5 @@ categories:
 ## これからのネットワークエンジニアへのメッセージ
 ### 講師：川村 聖一
 
-■ 資料：TBD
+■ 資料：[「これからネットワークエンジニアにとって⼤事だと思うことを⾃分なりに考えてみた」](https://drive.google.com/file/d/1BiWR5m3YMwWE76JM61PO2RMPhM4yE7CL/view?usp=sharing)
 　
