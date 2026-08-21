@@ -13,7 +13,7 @@ categories:
 第37回 ISOC-JP Workshopを、以下の要領で開催致します。これからのネットワークシステムアーキテクチャを考える皆様のご参加をお待ちします。
 
 ■ 日時   
-   2024年 06月 05日（木） 19:00～20:45 (開場 18:30)
+   2025年 06月 05日（木） 19:00～20:45 (開場 18:30)
 
 ■ 主催・企画   
    Internet Society日本支部(ISOC-JP)
@@ -35,7 +35,8 @@ categories:
 
 ■ プログラム
 ## インターネットアーキテクチャとIPルーティングパラダイムで切り拓く モバイルネットワークシステムの未来
-#### Introduction 石原 匠、河野 美也 (ISOC-JP)
+#### Introduction 河野 美也 (ISOC-JP)
+■ [資料](https://drive.google.com/file/d/1CzVmHhc-qq-XQTofY3x3S8mgmQDIATaF/view?usp=sharing)
 ## Keynote Presentation  松嶋 聡 (Softbank)
 
 ■ [事前資料](https://drive.google.com/file/d/1O_R-oCH5AmndBKgnfNJlxUmbLD8aRJLn/view?usp=sharing)

@@ -11,6 +11,14 @@ meta:
 
 # お知らせ / News
 
+* 2026年4月16日に、[第40回 ISOC-JP Workshop「これからのネットワークエンジニアへのメッセージ」](https://isoc.jp/activities/40th_isocjp_workshop/)を実施しました。変化の激しい現代においても、自分の個性を活かしながら成長し、社会への貢献や人間としての理解を深めていきたいという思いを共有しました。　 / On 16 April 2026, we held the 40th ISOC-JP Workshop, entitled ‘A Message to the Next Generation of Network Engineers’. The speaker and participatns shared desire to continue growing whilst making the most of our individual strengths, even in today’s rapidly changing world, and to deepen our understanding of society and our fellow human beings.
+
+* 2026年1月19日に、[第39回 ISOC-JP Workshop「AI for Security と Security for AI を考える」](https://isoc.jp/activities/39th_isocjp_workshop/)を実施します。生成AIに伴うリスクやガバナンスの在り方、そしてサイバーセキュリティのAI活用について、深く議論する機会にしたいと思います。　 / On 19 January 2026, we will hold the 39th ISOC-JP Workshop: "Considering AI for Security and Security for AI". We aim to provide an opportunity for in-depth discussion on the risks and governance approaches associated with generative AI, as well as the utilisation of AI in cybersecurity.
+
+* 2025年11月25日に、Internet Week 2025のBoFとして、[ISOC-JP BoF「インターネットについて議論しよう！」](https://isoc.jp/activities/38th_isocjp_workshop/)を実施します。インターネット、そしてインターネットコミュニティに関わるあらゆる話題を議論しましょう。　 / On 25 November 2025, we will hold the ISOC-JP BoF "Let's Discuss the Internet!" at Internet Week 2025. Let's discuss all topics related to the Internet and the Internet community.
+  
+* 2025年9月26日に、[第38回 ISOC-JP Workshop「AIインフラを考える」](https://isoc.jp/activities/38th_isocjp_workshop/)を実施します。AIインフラの現状と未来、そしてこれからのアーキテクトの役割について、ともに考え、議論を深める機会として、ぜひご参加ください。　 / On September 26, 2025, we will hold the 38th ISOC-JP Workshop, “Considering AI Infrastructure”. We invite you to join us for an opportunity to think together and deepen the discussion on the current state and future of AI infrastructure, as well as the role of architects going forward.
+
 * 2025年6月5日に、[第37回 ISOC-JP Workshop「インターネットアーキテクチャとIPルーティングパラダイムで切り拓くモバイルネットワークシステムの未来」](https://isoc.jp/activities/37th_isocjp_workshop/)を実施します。これからのモバイルアーキテクチャのあり方について話し合いましょう。　 / We will hold the 37th ISOC-JP workshop - The Future of Mobile Network Systems Pioneered by Internet Architecture and IP Routing Paradigm - on 5 Jun. 2025. Please join us! 
   
 * 2025年2月10日 - 18日にわたって、JPNIC様と共催で、[「IETF発！技術ハッカソンをやってみよう（第一回 SRv6編）」](https://www.nic.ad.jp/ja/topics/2025/20250122-01.html)を開催しました。/ February 10-18, 2025, a hackathon event co-hosted with JPNIC "Let's Try a Technology Hackathon from IETF (Part 1: SRv6)" was held.
