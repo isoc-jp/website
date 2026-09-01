@@ -38,7 +38,7 @@ categories:
    50名 
 
 ■ 参加申込ページ 
-   [https://isoc-jp.connpass.com/event/405542/]((https://connpass.com/event/405542/)])
+   [https://isoc-jp.connpass.com/event/405542/](https://connpass.com/event/405542/)
 
 ■ プログラム
 ## 日本のインフラ大丈夫？ 音楽、子育て、将棋、インターネット
