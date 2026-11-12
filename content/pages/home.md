@@ -10,7 +10,8 @@ meta:
 ---
 
 # お知らせ / News
-
+* 2026年11月26日に、[「ISOC Gathering@Internet Week 2026」](https://internetweek.jp/2026/archives/program/j2) を開催します。自然災害の多い日本、インフラに障害が起こると生活や経済に大きな影響を与えてしまいます。そのような中、世界ではどのような対策を行っているか、日本ではどうなのか。「ISOC Gathering @ Internet Week 2026」では、「ネットワークリジリエンス」をテーマに議論を行います。
+  
 * 2026年4月16日に、[第40回 ISOC-JP Workshop「これからのネットワークエンジニアへのメッセージ」](https://isoc.jp/activities/40th_isocjp_workshop/)を実施しました。変化の激しい現代においても、自分の個性を活かしながら成長し、社会への貢献や人間としての理解を深めていきたいという思いを共有しました。　 / On 16 April 2026, we held the 40th ISOC-JP Workshop, entitled ‘A Message to the Next Generation of Network Engineers’. The speaker and participatns shared desire to continue growing whilst making the most of our individual strengths, even in today’s rapidly changing world, and to deepen our understanding of society and our fellow human beings.
 
 * 2026年1月19日に、[第39回 ISOC-JP Workshop「AI for Security と Security for AI を考える」](https://isoc.jp/activities/39th_isocjp_workshop/)を実施します。生成AIに伴うリスクやガバナンスの在り方、そしてサイバーセキュリティのAI活用について、深く議論する機会にしたいと思います。　 / On 19 January 2026, we will hold the 39th ISOC-JP Workshop: "Considering AI for Security and Security for AI". We aim to provide an opportunity for in-depth discussion on the risks and governance approaches associated with generative AI, as well as the utilisation of AI in cybersecurity.
