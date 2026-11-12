@@ -10,6 +10,9 @@ meta:
 ---
 
 # お知らせ / News
+* 2026年11月26日に、[「ISOC Gathering@Internet Week 2026」](https://internetweek.jp/2026/archives/program/j2) を開催します。自然災害の多い日本、インフラに障害が起こると生活や経済に大きな影響を与えてしまいます。そのような中、世界ではどのような対策を行っているか、日本ではどうなのか。ISOC Gathering @ Internet Week 2026では、「ネットワークリジリエンス」をテーマに議論を行います。/On 26 November 2026, we will be hosting the ISOC Gathering @ Internet Week 2026. Japan is prone to natural disasters, and any disruption to its infrastructure can have a significant impact on daily life and the economy. Against this backdrop, what measures are being taken globally, and what is the situation in Japan? At the ISOC Gathering @ Internet Week 2026, we will be holding discussions on the theme of ‘network resilience’.
+
+* 2026年10月5日に、[第41回 ISOC-JP Workshop 「日本のインフラ大丈夫？ 音楽、子育て、将棋、インターネット」](https://isoc.jp/activities/41st_isocjp_workshop/)を実施しました。音楽や将棋の道や子育てって、思い通りにはいかないことがたくさんある世界です。そのような中でも、長期的に何を目指すのかが明確にしながら日々努力することにより、視界が拓けます。とても多角的な視点から、インターネット基盤技術を議論しました。/On 5 October 2026, we held the 41st ISOC-JP Workshop, entitled ‘Is Japan’s Infrastructure Okay? Music, Parenting, Shogi and the Internet’. The worlds of music, shogi and parenting are full of situations that do not always go as planned. Even so, by clearly defining our long-term goals and striving towards them day by day, we can broaden our horizons. We discussed internet infrastructure technologies from a wide range of perspectives.
 
 * 2026年4月16日に、[第40回 ISOC-JP Workshop「これからのネットワークエンジニアへのメッセージ」](https://isoc.jp/activities/40th_isocjp_workshop/)を実施しました。変化の激しい現代においても、自分の個性を活かしながら成長し、社会への貢献や人間としての理解を深めていきたいという思いを共有しました。　 / On 16 April 2026, we held the 40th ISOC-JP Workshop, entitled ‘A Message to the Next Generation of Network Engineers’. The speaker and participatns shared desire to continue growing whilst making the most of our individual strengths, even in today’s rapidly changing world, and to deepen our understanding of society and our fellow human beings.
 
